@@ -1,0 +1,182 @@
+You are now the Architect of the “Fernhill Master Plan Research Engine”.
+
+Your task is to build a complete multi-agent research system inside this repo. 
+This system must generate a 40+ page Fernhill Master Plan covering:
+
+1. Belfast wedding venue market
+2. Belfast wake & funeral reception venue market
+3. Restoration cost benchmarks for heritage buildings in NI
+4. Funding sources (NI, UK, EU, philanthropic, private)
+5. Governance models for heritage venues
+6. Local Belfast funders, investors, and heritage-aligned donors
+7. Comparable case studies (NI, UK, Ireland)
+8. Community benefit models
+9. Operational models (weddings, wakes, tea room, cinema, events)
+10. Revenue modelling & capacity planning
+
+------------------------------------------
+CREATE THE FOLLOWING FOLDER STRUCTURE:
+
+/agents
+  /research
+    wedding-agent.js
+    wake-agent.js
+    restoration-agent.js
+    funding-agent.js
+    governance-agent.js
+    investor-agent.js
+    case-study-agent.js
+    operations-agent.js
+  /writer
+    masterplan-writer.js
+    section-writer.js
+  /orchestrator
+    orchestrator.js
+
+/research-output
+  /weddings
+  /wakes
+  /restoration
+  /funding
+  /governance
+  /investors
+  /case-studies
+  /operations
+  /masterplan
+
+/prompts
+  wedding-research.md
+  wake-research.md
+  restoration-costs.md
+  funding-landscape.md
+  governance-models.md
+  investor-mapping.md
+  case-studies.md
+  operations-modelling.md
+  masterplan-structure.md
+
+------------------------------------------
+AGENT BEHAVIOUR:
+
+Each research agent must:
+- Perform deep structured research
+- Produce Belfast-specific data
+- Include pricing, capacity, examples, and named venues
+- Include citations and source links
+- Output structured JSON + Markdown reports
+- Save results into /research-output/<topic>/
+
+The writer agents must:
+- Take all research outputs
+- Expand them into long-form narrative
+- Produce a 40+ page Master Plan
+- Save final output into /research-output/masterplan/masterplan.md
+
+The orchestrator must:
+- Run all research agents in sequence
+- Wait for outputs
+- Pass outputs to writer agents
+- Build the final master plan
+
+------------------------------------------
+RESEARCH REQUIREMENTS:
+
+WEDDINGS:
+- List every Belfast wedding venue
+- Prices per person, minimum spends, capacities
+- Heritage venues vs hotels vs restaurants
+- Market size & annual wedding volume
+- Trends in NI wedding spending
+- Competitive positioning for Fernhill
+
+WAKES:
+- List Belfast wake venues
+- Capacities, catering, pricing
+- Crematorium proximity (City & Roselawn)
+- Cultural expectations in Belfast wakes
+
+RESTORATION COSTS:
+- NI heritage restoration benchmarks
+- Roof, windows, masonry, plaster, timber
+- Cost per m² for listed buildings
+- Case studies of NI restorations
+- Typical timelines & risk factors
+
+FUNDING:
+- National Lottery Heritage Fund (NI)
+- Architectural Heritage Fund
+- Historic Environment Fund (NI)
+- Belfast City Council grants
+- Tourism NI capital grants
+- Philanthropic foundations
+- Social investment funds
+- Eligibility, amounts, timelines
+
+GOVERNANCE:
+- Charity model
+- CIC model
+- Trust model
+- Hybrid public/private/community models
+- Case studies from NI heritage clusters
+
+INVESTORS:
+- Belfast-based private funders
+- High-net-worth individuals with heritage interest
+- Local business owners
+- Social impact investors
+- Corporate sponsors
+
+CASE STUDIES:
+- Belfast Castle
+- Malone House
+- Clifton House
+- Duncairn Centre
+- Sailortown projects
+- UK heritage-led regeneration examples
+
+OPERATIONS:
+- Staffing models
+- Daily operations for weddings, wakes, tea room, cinema
+- Capacity modelling
+- Revenue modelling
+- Cost structures
+
+------------------------------------------
+OUTPUT REQUIREMENTS:
+
+1. Each agent generates:
+   - JSON summary
+   - Full Markdown report
+   - Citations
+
+2. The writer agents generate:
+   - A 40+ page Fernhill Master Plan
+   - Fully structured sections
+   - Executive summary
+   - Financial model narrative
+   - Governance recommendation
+   - Funding roadmap
+   - Community impact section
+
+3. The orchestrator:
+   - Runs everything
+   - Produces a final masterplan.md file
+
+------------------------------------------
+STYLE:
+
+- Professional, evidence-based, Belfast-specific
+- No generic filler
+- Use real numbers, real venues, real grants
+- Use citations for every factual claim
+- Tone: heritage, community, regeneration, opportunity
+
+------------------------------------------
+BEGIN NOW:
+
+1. Create all folders and files.
+2. Scaffold all agents with placeholder logic.
+3. Scaffold orchestrator.
+4. Scaffold writer agents.
+5. Generate prompt templates.
+6. Prepare system for future execution.
