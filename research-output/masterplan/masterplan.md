@@ -47,13 +47,13 @@
 
 ## Section 1: Executive Summary
 
-Fernhill House stands on the southern edge of Belfast, a listed Victorian country house that has been silent for too long. This Master Plan makes the case for its restoration as a community-owned heritage venue — a place that serves Belfast's families at the moments that matter most, generates genuine financial sustainability through weddings, wakes, a heritage tea room, and community events, and preserves an irreplaceable piece of the city's architectural history for generations to come.
+Fernhill House stands on the western/northwestern side of Belfast, a listed Victorian country house that has been silent for too long [S01]. This Master Plan makes the case for its restoration as a community-owned heritage venue — a place that serves Belfast's families at the moments that matter most, generates genuine financial sustainability through weddings, wakes, a heritage tea room, and community events, and preserves an irreplaceable piece of the city's architectural history for generations to come.
 
 The case is strong, the timing is right, and the funding landscape in Northern Ireland is more favourable than at any point in the last generation.
 
-**The opportunity.** There is no independent heritage house wedding venue in south or west Belfast. The two nearest comparators — Belfast Castle and Malone House — are both owned and managed by Belfast City Council, both priced below commercial market rates, and both routinely booked to capacity on weekends. The Northern Ireland wedding market registered 7,494 marriages in 2023 and 8,564 in 2022. An estimated 185–225 couples in the south and west Belfast catchment each year are turned away from heritage house venues or settle for alternatives that are not their first choice. Fernhill would fill this gap directly.
+**The opportunity.** There is no independent heritage house wedding venue anchored in west or northwest Belfast. The two nearest public-sector comparators — Belfast Castle and Malone House — are both owned and managed by Belfast City Council, and both priced below typical independent commercial rates [S02][S03][S04]. The Northern Ireland wedding market registered 7,494 marriages in 2023 and 8,564 in 2022. Estimated unmet demand in Fernhill's catchment should be treated as a modelled scenario (not a confirmed count) until a documented capacity-and-conversion method is published.
 
-The case for wake receptions is equally compelling. Approximately 5,000–5,800 people die in the Belfast area each year. If 20–30% of families book an external venue for the reception, that is 1,000–1,740 events per year — a market worth £1m–£3.5m annually. Current options are hotels (impersonal, expensive) or social clubs and church halls (variable quality). No venue in south or west Belfast combines heritage character, a walled garden, intimate rooms, and community ownership. Fernhill would be the first.
+The case for wake receptions is equally compelling. Approximately 5,000–5,800 people die in the Belfast area each year. If 20–30% of families book an external venue for the reception, that is 1,000–1,740 events per year — a market worth £1m–£3.5m annually. Current options are hotels (impersonal, expensive) or social clubs and church halls (variable quality). No venue in west or northwest Belfast currently combines heritage character, a walled garden, intimate rooms, and community ownership. Fernhill would be the first.
 
 **The financial model.** At full operational maturity — projected for Year 5 — Fernhill is modelled to generate £504,920 in annual revenue from five complementary streams: 45 weddings (£144,000), 80 wake receptions (£154,400), a heritage tea room (£154,280), a small cinema (£30,240), and community room hire (£22,000). Against a total operating cost of £284,896, the model delivers a surplus of £220,024 — a 44% operating margin that funds ongoing building maintenance and the charity's community programme. The model reaches break-even in Year 3 at approximately 38 weddings and 70 wake receptions.
 
@@ -69,13 +69,13 @@ The case for wake receptions is equally compelling. Approximately 5,000–5,800 
 
 ## Section 2: Introduction & Vision
 
-There is a particular quality of light in south Belfast on a clear summer morning. It falls through mature trees onto stone, filters through curtains of Virginia creeper onto Victorian brickwork, and catches the worn edges of garden walls that have stood for more than a century. Fernhill House sits in that light, quiet and patient, waiting.
+There is a particular quality of light in west Belfast on a clear summer morning. It falls through mature trees onto stone, filters through curtains of Virginia creeper onto Victorian brickwork, and catches the worn edges of garden walls that have stood for more than a century. Fernhill House sits in that light, quiet and patient, waiting.
 
 The question this Master Plan asks is simple: what should happen next?
 
 The answer proposed here is not a hotel development or a private residential conversion. It is something rarer and, we would argue, far more valuable: a **community-led heritage venue** — a place owned by the people of Belfast, governed in their interests, and open to them at the moments of their lives that matter most. Weddings and wakes. Community gatherings and quiet afternoons. Heritage cinema evenings and school visits. A tea room that smells of fresh scones and good coffee and where the tables are never quite perfectly level because the floors have been there for a hundred and fifty years.
 
-This is not a nostalgic project. It is a practical one. Heritage venues in Belfast generate real revenue from real people paying real money to mark real occasions in places that feel significant. Belfast Castle and Malone House — both owned by Belfast City Council — demonstrate this every weekend. Both are at capacity. Both serve the city well but cannot serve all of it. South and west Belfast — a residential catchment of 120,000–160,000 people — has no independent heritage house venue. Fernhill would be the first.
+This is not a nostalgic project. It is a practical one. Heritage venues in Belfast generate real revenue from real people paying real money to mark real occasions in places that feel significant. Belfast Castle and Malone House — both owned by Belfast City Council — demonstrate this every weekend [S02][S03]. Both serve the city well but cannot serve all localities equally. West and northwest Belfast have no independent heritage house venue. Fernhill would be the first.
 
 This plan sets out the evidence for this proposition. It maps the wedding and wake venue markets in granular detail. It models the restoration costs against industry benchmarks. It identifies every significant funding source available, with amounts, eligibility criteria, and application windows. It recommends a governance structure, a staffing model, a pricing strategy, a community benefit framework, and a funding roadmap. It draws on case studies of six comparable heritage venues — four of them in Belfast or Northern Ireland — to extract lessons that Fernhill can learn from and build upon.
 
@@ -99,7 +99,7 @@ What this plan cannot do is replace the human energy required to make it happen.
 
 ### 3.1 Origins & Architectural Character
 
-Fernhill House is a Victorian country house in south Belfast, occupying elevated ground with views across the city and surrounding landscape. The house is a fine example of the substantial domestic architecture that characterised Belfast's Victorian prosperity — a period when the city's industrial and commercial wealth generated a class of merchant and professional families who built handsome houses on the hills above the lough, each set in its own grounds with stable yards, walled kitchen gardens, and the landscaped pleasures of the age.
+Fernhill House is a Victorian country house in the Glencairn/Ballygomartin area of west/northwest Belfast, occupying elevated ground with views across the city and surrounding landscape [S01]. The house is a fine example of the substantial domestic architecture that characterised Belfast's Victorian prosperity — a period when the city's industrial and commercial wealth generated a class of merchant and professional families who built handsome houses on the hills above the lough, each set in its own grounds with stable yards, walled kitchen gardens, and the landscaped pleasures of the age.
 
 The architectural character of the house is distinguished by its stone construction, its proportioned façade, and the quality of its interior joinery and plasterwork that reflects the craftsmanship of its period. Like many houses of its type and vintage, Fernhill was built at a scale that presupposed domestic staff, seasonal use of principal rooms, and a connection between indoor and outdoor space — the walled garden being as much a part of the house's identity as the drawing room or dining room.
 
@@ -125,7 +125,7 @@ The case for restoring Fernhill House rests on three foundations.
 
 The first is heritage value. Listed buildings are irreplaceable. Unlike almost every other category of asset, a Victorian country house destroyed by neglect cannot be rebuilt, replicated, or compensated for. The materials — the hand-cut stone, the original sash windows, the lime plaster ceiling roses — embody the skills and intentions of craftsmen who are long dead and whose methods cannot be fully reproduced. Fernhill's restoration is an act of preservation with a finality that commercial arguments alone cannot capture.
 
-The second is community value. South and west Belfast — the residential communities of Andersonstown, Finaghy, Dunmurry, Lisburn Road, Balmoral, and Stranmillis — constitute a residential catchment of 120,000–160,000 people who have no community-owned heritage space. The BCC venues serve the city admirably, but they are institutional. Fernhill could be something different: a place that people feel belongs to them, because it does.
+The second is community value. West and northwest Belfast communities around Glencairn/Ballygomartin and the wider urban catchment have no community-owned heritage house venue anchored in their area. The BCC venues serve the city admirably, but they are institutional. Fernhill could be something different: a place that people feel belongs to them, because it does.
 
 The third is practical value. The financial model set out in this plan demonstrates that Fernhill's restoration can generate a sustainable surplus by Year 3 — not through subsidy, but through a diversified revenue model that reflects the real demand in the market. This is not a charity case requiring indefinite public support. It is a community investment that pays its own way.
 
@@ -153,11 +153,11 @@ The 10-hour wedding package is priced at **£1,071** (April 2025–March 2026), 
 Belfast Castle demonstrates, definitively, that Belfast couples will pay a premium to celebrate their wedding in a heritage house with gardens and a story. The Castle is consistently booked months in advance on Fridays and Saturdays. It serves the north and central Belfast catchment.
 
 **Malone House**
-The closest geographic comparator to Fernhill — and the most important single data point in the market analysis. A Georgian country house (c.1820), Grade B1 listed, set in the Barnett Demesne parkland in south Belfast (BT9 5PB). Owned and managed by Belfast City Council.
+A key public-sector comparator for pricing and operating model — and one of the most important single data points in the market analysis. A Georgian country house (c.1820), Grade B1 listed, set in the Barnett Demesne parkland in south Belfast (BT9 5PB). Owned and managed by Belfast City Council.
 
 The 10-hour wedding package is **£1,044** (2025–26) rising to **£1,075** (2026–27), including the Hilsborowe Room for the ceremony and arrival drinks, the Harberton Room for the reception from 3pm to 1am, the Malone Room bar from 6pm to 1am, a wedding changing room, landscaped gardens, red carpet, table plan, and PA system. In-house catering is available (unlike Belfast Castle, which uses external caterers).
 
-The Harberton Room is also available by the hour at **£105/hr** before 6pm and **£115/hr** after 6pm, with a daytime block rate of **£505** (9am–5pm) and a full ten-hour block at **£1,075** from 2026–27. The venue is routinely booked well in advance on Fridays and Saturdays. Its south Belfast location means it draws from exactly the same catchment that Fernhill would serve.
+The Harberton Room is also available by the hour at **£105/hr** before 6pm and **£115/hr** after 6pm, with a daytime block rate of **£505** (9am–5pm) and a full ten-hour block at **£1,075** from 2026–27 [S04]. Its south Belfast location makes it a useful city comparator for pricing and format, even though Fernhill's immediate local catchment is west/northwest Belfast.
 
 **Larchfield Estate**
 A Georgian estate venue approximately 20 minutes south of Belfast (Lisburn, Co. Antrim). Reception capacity approximately 220 guests; heritage estate setting; external catering model; estimated price per head £80–£145. Frequently fully booked at weekends — confirming strong demand for the heritage estate format beyond BCC venues.
@@ -175,11 +175,11 @@ Large-scale industrial heritage venue. Up to 600 guests for reception. Iconic bu
 
 The analysis of the competitive landscape reveals a clear geographic gap that is directly relevant to Fernhill's proposed positioning.
 
-Belfast Castle serves north and central Belfast. Malone House serves south Belfast but is at capacity. Larchfield and Killeavy serve couples willing to travel 20–60 minutes outside the city. Hotel venues serve the city centre. **No independent heritage house venue serves south and west Belfast** — a combined residential catchment of approximately 120,000–160,000 people.
+Belfast Castle serves north and central Belfast. Malone House serves south Belfast. Larchfield and Killeavy serve couples willing to travel 20–60 minutes outside the city. Hotel venues serve the city centre. **No independent heritage house venue is anchored in west or northwest Belfast**, where Fernhill is located [S01].
 
-Andersonstown, Finaghy, Dunmurry, the Lisburn Road corridor, Stranmillis, and Balmoral are all within ten minutes of Fernhill's location. This catchment includes substantial populations of both communities, a range of income profiles, and — critically — families with strong local ties who would choose a local venue if a compelling local option existed.
+Fernhill's Glencairn location places it in practical reach of west/northwest Belfast communities and citywide demand depending on transport patterns. This catchment includes substantial populations of both communities, a range of income profiles, and families with strong local ties who may choose a local heritage option if a compelling offer exists.
 
-If 15% of the approximately 1,500 south and west Belfast annual weddings seek a heritage setting, and Malone House can accommodate approximately 40 per year at weekend capacity, there are an estimated **185–225 couples per year** in the catchment who are either being turned away, booking outside their preferred area, or settling for a non-heritage alternative. Fernhill's entry into this market would meet real, documented, unmet demand.
+If a defined share of annual weddings in Fernhill's catchment seek a heritage setting, and existing heritage venues have constrained peak availability, there is likely unmet demand. In v3 this should be presented as a transparent scenario calculation (with assumptions and formula shown), not as a confirmed count.
 
 ### 4.4 Fernhill's Competitive Positioning
 
@@ -209,7 +209,7 @@ Fernhill's story — a Victorian house, rescued by the community that surrounds 
 
 ### 4.6 The Positioning Statement
 
-> *"Fernhill House offers Belfast couples something genuinely rare — an independently-run Victorian heritage house, community-owned, with walled gardens and an intimate soul, at the heart of south Belfast. A place where the building itself becomes part of the story of your day. Not a function suite. Not a hotel ballroom. Something that has been here before you, and will be here after."*
+> *"Fernhill House offers Belfast couples something genuinely rare — an independently-run Victorian heritage house, community-owned, with walled gardens and an intimate soul, rooted in west Belfast. A place where the building itself becomes part of the story of your day. Not a function suite. Not a hotel ballroom. Something that has been here before you, and will be here after."*
 
 ---
 
@@ -265,7 +265,7 @@ Representative venues currently serving this market:
 | GAA clubs / social clubs | Community | Various | 80–100 | £5–£12 |
 | Church halls | Community | Various | 60–80 | £3–£8 |
 
-No venue in south or west Belfast currently combines heritage character, a walled garden for quiet outdoor reflection, an intimate scale, and community ownership. This gap is precisely what Fernhill would fill.
+No venue in west or northwest Belfast currently combines heritage character, a walled garden for quiet outdoor reflection, an intimate scale, and community ownership. This gap is precisely what Fernhill would fill.
 
 ### 5.5 The Fernhill Offer
 
@@ -280,7 +280,7 @@ No venue in south or west Belfast currently combines heritage character, a walle
 **What makes Fernhill different:**
 - **The walled garden.** A place to step outside, catch breath, be quiet, be together. No hotel function suite offers this.
 - **Intimate rooms.** Domestic in scale. Not cavernous. A place that feels like a home, not a conference centre.
-- **Community-owned.** For many south and west Belfast families, choosing Fernhill is an act of coming home — to a building that belongs to the people it serves.
+- **Community-owned.** For many west/northwest Belfast families, choosing Fernhill can be an act of coming home — to a building that belongs to the people it serves.
 - **The proximity.** Eight to fifteen minutes from the two highest-volume west Belfast burial sites. On the natural route home.
 - **The remembrance garden option.** Families could dedicate a memorial bench or plant a tree — a permanent, growing connection to Fernhill that means something.
 - **No discrimination, no denomination.** Catholic and Protestant families served with equal dignity and welcome in a neutral, community-owned space.
@@ -403,7 +403,7 @@ Every restoration budget for a long-vacant Victorian building must account for u
 Fernhill sits at the intersection of three of the most fundable narratives in current UK and NI heritage and community policy:
 
 - **Heritage at risk.** A listed building requiring urgent stabilisation and restoration — the primary rationale for every major heritage grant programme.
-- **Community benefit.** A building that will serve a defined community — south and west Belfast — with real, documented, unmet needs across weddings, wakes, and community use.
+- **Community benefit.** A building that will serve a defined community — especially west and northwest Belfast, alongside wider city demand — with unmet needs across weddings, wakes, and community use.
 - **Cross-community reconciliation.** A project serving all of Belfast's communities equally in a city where cross-community programming attracts a significant additional layer of European and NI Executive funding.
 
 This combination makes Fernhill exceptionally fundable. Not every heritage restoration project can make all three claims convincingly. Fernhill can make all three.
@@ -516,7 +516,7 @@ Verdict for Fernhill as primary vehicle: **Not recommended.** The CIC structure 
 **Model C: Community Benefit Society (Bencom)**
 Co-operative with democratic governance and asset lock. Can raise community shares. Not a charity unless separately registered.
 
-Value for Fernhill: A community share offer — separate from the charity structure — could raise £50,000–£150,000 from south and west Belfast residents. Worth exploring as part of Phase 2 fundraising, not as the primary structure.
+Value for Fernhill: A community share offer — separate from the charity structure — could raise £50,000–£150,000 from west and northwest Belfast residents and wider supporters. Worth exploring as part of Phase 2 fundraising, not as the primary structure.
 
 **Model D: Hybrid — Charitable Company Parent + Private Ltd Trading Subsidiary (RECOMMENDED)**
 The standard model for UK heritage venues that combine charitable mission with significant commercial activity. The charity holds the building and receives all grants and donations. A wholly-owned private limited company runs all commercial operations. At year end, the trading subsidiary donates its profits to the charity under a deed of covenant — eliminating corporation tax on trading income.
@@ -561,7 +561,7 @@ The founding trustees are the single most important decision in the Fernhill pro
 | Chairperson | Legal or civic standing; heritage sympathy; credibility with Belfast institutions |
 | Treasurer | Finance/accounting professional; charity finance experience preferred |
 | Heritage Trustee | Architect, conservation officer, or heritage sector professional in NI |
-| Community Trustee | South/west Belfast community representative; lived experience of the area |
+| Community Trustee | West/northwest Belfast community representative; lived experience of the area |
 | Business Trustee | Events, hospitality, or commercial property experience |
 | Optional 6th Trustee | Cross-community credibility — comfortable in and trusted by both traditions |
 
@@ -603,7 +603,7 @@ For philanthropic donors, Fernhill offers something increasingly rare in modern 
 
 **Diaspora fundraising:** The Belfast and NI diaspora in the United States, Canada, Australia, and Great Britain represents a significant untapped source. The American Ireland Fund manages tax-efficient giving from US-based donors. A diaspora campaign around the "save Fernhill" narrative could raise £50,000–£150,000 in smaller donations.
 
-**Community shares:** A Spacehive or direct community share offer targeting south and west Belfast residents could raise £50,000–£100,000 from 200–500 local investors at £100–£500 each. This gives local people a literal stake in the building and generates community ownership that no other fundraising mechanism can replicate.
+**Community shares:** A Spacehive or direct community share offer targeting west and northwest Belfast residents (plus wider city supporters) could raise £50,000–£100,000 from 200–500 local investors at £100–£500 each. This gives local people a literal stake in the building and generates community ownership that no other fundraising mechanism can replicate.
 
 ### 9.3 Stewardship
 
@@ -634,9 +634,9 @@ Belfast Castle proves the central commercial proposition: a heritage house in Be
 
 Built c.1820, Georgian country house, Grade B1 listed, Barnett Demesne, south Belfast. Owned and managed by Belfast City Council.
 
-Malone House is the single most important piece of market evidence for Fernhill. It occupies the same geographic catchment, the same heritage house format, and publishes its pricing publicly. The 10-hour wedding package at £1,044–£1,075 is routinely fully booked at weekends. The Harberton Room at £105–£115 per hour generates additional income from meetings, events, and community use on weekdays.
+Malone House is one of the most important pieces of market evidence for Fernhill. It represents a comparable heritage house format and publishes its pricing publicly [S03][S04]. The 10-hour wedding package at £1,044–£1,075 and the Harberton Room at £105–£115 per hour provide practical pricing benchmarks for model calibration.
 
-**Lesson for Fernhill:** South Belfast demand is not hypothetical — it is demonstrated, measured, and currently unmet at peak times. Fernhill enters an established market with a proven demand signal.
+**Lesson for Fernhill:** Belfast heritage-house demand is not hypothetical; published BCC packages provide a grounded benchmark. Fernhill can enter an established market with a differentiated west/northwest location proposition.
 
 ### 10.4 Clifton House — The Governance Model
 
@@ -804,15 +804,15 @@ A heritage restoration is only truly successful if it delivers lasting, measurab
 
 The community benefit framework has six dimensions:
 
-**1. Employment.** At full maturity, Fernhill employs four full-time staff and the equivalent of two additional FTE in casual roles — six jobs, in south Belfast, in an organisation that is explicitly committed to paying above the National Living Wage. Supply chain procurement — food, laundry, flowers, entertainment, maintenance — will follow a local supplier preference policy, supporting an estimated additional 10–15 indirect jobs.
+**1. Employment.** At full maturity, Fernhill employs four full-time staff and the equivalent of two additional FTE in casual roles — six jobs, in west/northwest Belfast, in an organisation that is explicitly committed to paying above the National Living Wage. Supply chain procurement — food, laundry, flowers, entertainment, maintenance — will follow a local supplier preference policy, supporting an estimated additional 10–15 indirect jobs.
 
-**2. Heritage apprenticeships.** During the Phase B restoration, Fernhill should engage with local construction training providers to incorporate heritage craft apprenticeships — lime plastering, traditional joinery, masonry — in the construction programme. This is fundable through NLHF's community skills strand and directly benefits young people in south and west Belfast.
+**2. Heritage apprenticeships.** During the Phase B restoration, Fernhill should engage with local construction training providers to incorporate heritage craft apprenticeships — lime plastering, traditional joinery, masonry — in the construction programme. This is fundable through NLHF's community skills strand and directly benefits young people in west and northwest Belfast.
 
 **3. Cross-community use.** Programming and governance are explicitly designed to serve all of Belfast's communities. Trustees will reflect both traditions. Events will be designed to be inclusive. The remembrance service welcomes Catholic and Protestant families with equal dignity. SEUPB PEACE PLUS funding is conditional on delivering this — and delivering it genuinely.
 
 **4. Educational access.** School visits, heritage education talks, a building archive open to researchers, community history exhibitions in the public rooms. Heritage education is a recognised charitable purpose that also generates the human stories — the grandchildren who discover what the house was, the school trips that remember it — that sustain long-term community connection.
 
-**5. Remembrance garden.** A public garden space for quiet reflection and memorial planting. Families who hold wake receptions at Fernhill can dedicate a bench or plant a tree — a permanent, growing connection that has no parallel at any hotel or social club in south Belfast. This is community benefit in its most intimate form.
+**5. Remembrance garden.** A public garden space for quiet reflection and memorial planting. Families who hold wake receptions at Fernhill can dedicate a bench or plant a tree — a permanent, growing connection with limited equivalent options in west/northwest Belfast. This is community benefit in its most intimate form.
 
 **6. Affordable community hire.** A subsidised rate for local community organisations — 30% below the commercial rate — funded from the operational surplus. Fernhill's rooms belong to the community; the community should be able to use them.
 
@@ -822,7 +822,7 @@ Heritage venues in the UK typically generate £4–£8 of social value for every
 
 ### 12.3 The Cross-Community Dimension
 
-Belfast's history makes cross-community credibility a precondition for legitimacy, not an optional aspiration. Fernhill's location in south Belfast — a predominantly nationalist area — means that its governance must be visibly and genuinely cross-community to be trusted, funded, and used by all of the city.
+Belfast's history makes cross-community credibility a precondition for legitimacy, not an optional aspiration. Fernhill's west/northwest location means that its governance must be visibly and genuinely cross-community to be trusted, funded, and used by all of the city.
 
 This means:
 - Trustees from both traditions, from the outset
@@ -916,7 +916,7 @@ A pre-application meeting with HED is essential before any Listed Building Conse
 NLHF encourages early conversations with potential applicants. A pre-application meeting with the NLHF NI team in Lanyon Place, Belfast, should be arranged in Month 6–12. This relationship is long-term; the sooner it begins, the better.
 
 **Action 6: Begin community engagement.**
-A public meeting, a project website, a social media presence, and — most importantly — conversations with south and west Belfast community leaders, clergy, heritage organisations, and local businesses. The community's ownership of Fernhill begins with its awareness of Fernhill. The fundraising campaign cannot precede the community engagement. The story needs to be known before the ask is made.
+A public meeting, a project website, a social media presence, and — most importantly — conversations with west and northwest Belfast community leaders, clergy, heritage organisations, and local businesses (plus citywide partners). The community's ownership of Fernhill begins with its awareness of Fernhill. The fundraising campaign cannot precede the community engagement. The story needs to be known before the ask is made.
 
 **Action 7: Register the charity.**
 Engage a solicitor. Draft the Memorandum and Articles of Association. Incorporate the Charitable Company at Companies House. Apply to CCNI for charitable registration. Apply to HMRC for Gift Aid registration. These are parallel processes and should be running by Month 2–3.
@@ -948,7 +948,7 @@ Engage a solicitor. Draft the Memorandum and Articles of Association. Incorporat
 
 All of the above — the financial models, the governance structures, the funding stacks, the case studies — can be reduced to a single proposition.
 
-Fernhill House is a listed Victorian building in south Belfast that has been empty for too long. It could be a wedding venue and a place for wakes and a tea room and a heritage cinema and a community space. It could employ six people. It could hold the weddings of south Belfast's couples and the remembrance of its dead. It could be saved.
+Fernhill House is a listed Victorian building in west/northwest Belfast that has been empty for too long [S01]. It could be a wedding venue and a place for wakes and a tea room and a heritage cinema and a community space. It could employ six people. It could host life events for local families and the wider city. It could be saved.
 
 The money exists. The funding landscape is more favourable than it has been in a generation — £290 million in NLHF grants to NI since 1994; a new Historic Environment Fund launched by the NI Executive; £15.1 million in PEACEPLUS funds for Belfast community projects. The demand exists — Malone House is at capacity every weekend, demonstrating an unmet need in the same catchment Fernhill would serve. The model works — six case studies from Belfast and across the UK demonstrate that community-owned heritage venues at this scale are viable, sustainable, and valued.
 
@@ -1051,3 +1051,10 @@ The model is resilient to moderate downside scenarios. The tea room is the highe
 *This is a proposed future concept. Fernhill House is not currently restored or open. All financial projections are illustrative estimates requiring professional validation.*
 
 *Sources for all factual claims are cited in the body of the document and in the individual research output files in `/research-output/`.*
+
+### Source Keys Added in v3 Redline Pass
+
+- [S01] NI Buildings Register (nidirect), HB26/38/004A, Fernhill House address and listing details. Accessed 2026-05-08. https://apps.communities-ni.gov.uk/Buildings/buildview.aspx?id=17657&js=false
+- [S02] Belfast City Council, Belfast Castle wedding packages. Accessed 2026-05-08. https://www.belfastcity.gov.uk/belfastcastle/your-wedding/your-day/wedding-packages
+- [S03] Belfast City Council, Malone House wedding packages. Accessed 2026-05-08. https://www.belfastcity.gov.uk/malonehouse/your-wedding/your-day/wedding-packages
+- [S04] Belfast City Council, Malone House room hire rates (2026-27). Accessed 2026-05-08. http://www.belfastcity.gov.uk/malonehouse/meetings-events/room-hire-rates
