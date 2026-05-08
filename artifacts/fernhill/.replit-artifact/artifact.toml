@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Fernhill Heritage Vision"
+version = "1.0.0"
+id = "artifacts/fernhill"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18559
+
+[services.development]
+run = "pnpm --filter @workspace/fernhill run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/fernhill", "run", "build" ]
+publicDir = "artifacts/fernhill/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18559"
+BASE_PATH = "/"

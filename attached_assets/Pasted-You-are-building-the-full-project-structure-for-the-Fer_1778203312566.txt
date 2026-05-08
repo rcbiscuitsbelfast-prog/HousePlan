@@ -1,0 +1,187 @@
+You are building the full project structure for the “Fernhill Heritage Vision” 
+initiative. This is a long-term restoration and community development plan for 
+Fernhill House in Belfast. The website must present everything as a proposed, 
+future-state concept — NOT an operating business. Use language such as 
+“future vision”, “proposed restoration”, “concept design”, and “could become”.
+
+GOAL:
+Create a complete, clean, scalable Next.js website AND a structured folder system 
+for research, planning, and future AI agents. The repo will be used for:
+- the public-facing Fernhill Vision website
+- internal research documents
+- agent-generated reports
+- planning materials
+- architectural references
+- funding and heritage research
+- future 3D walkthrough prototypes
+
+REPO STRUCTURE TO GENERATE:
+
+/public
+  /images
+    (placeholder images from Unsplash/Pexels)
+    hero.jpg
+    fernhill-exterior.jpg
+    gardens.jpg
+    tea-room.jpg
+    cinema-room.jpg
+    weddings.jpg
+    wakes.jpg
+    community.jpg
+
+/src
+  /components
+    Header.jsx
+    Footer.jsx
+    Hero.jsx
+    Section.jsx
+    Gallery.jsx
+
+  /pages
+    index.jsx
+    weddings.jsx
+    wakes.jsx
+    tea-room.jsx
+    cinema.jsx
+    community.jsx
+    about.jsx
+    contact.jsx
+
+/styles
+  globals.css
+  theme.css
+
+/data
+  /content
+    homepage.json
+    weddings.json
+    wakes.json
+    tea-room.json
+    cinema.json
+    community.json
+    about.json
+    contact.json
+
+/research
+  /heritage
+    planning-rules.md
+    conservation-notes.md
+    comparable-venues.md
+  /funding
+    grants.md
+    investor-models.md
+    revenue-streams.md
+  /community
+    engagement-plan.md
+    remembrance-garden.md
+  /operations
+    staffing-models.md
+    capacity-estimates.md
+
+/agents
+  /researcher
+    prompts.md
+    tasks.md
+  /writer
+    prompts.md
+    templates.md
+  /planner
+    workflows.md
+  /web
+    tasks.md
+    components.md
+  /3d
+    godot-setup.md
+    luma-prompts.md
+
+README.md
+package.json
+
+-----------------------------------------
+WEBSITE REQUIREMENTS:
+
+Framework: Next.js  
+Styling: CSS modules or global CSS  
+Tone: warm, heritage, elegant, community-rooted  
+Colour palette: soft whites, heritage greens, muted gold accents  
+Typography: serif headings + clean sans-serif body text  
+Imagery: free placeholders (Unsplash/Pexels)
+
+-----------------------------------------
+PAGE CONTENT GUIDELINES:
+
+All pages must clearly state that Fernhill is:
+- not currently restored
+- not currently open
+- presented as a future vision
+
+Use phrases like:
+- “proposed restoration”
+- “future concept”
+- “imagined layout”
+- “could become”
+- “community-led vision”
+
+-----------------------------------------
+PAGES TO GENERATE:
+
+HOME:
+- hero image
+- mission statement
+- short description of Fernhill’s heritage
+- future vision for weddings, wakes, tea room, cinema, community events
+
+WEDDINGS:
+- proposed ceremony spaces
+- gardens and grounds
+- heritage aesthetic
+- photography potential
+- disclaimers that this is a future concept
+
+WAKES & REMEMBRANCE:
+- dignified, respectful tone
+- quiet rooms, gardens, remembrance space
+- community sensitivity
+
+TEA ROOM:
+- future tea room concept
+- heritage interior
+- daily community use
+
+CINEMA ROOM:
+- small heritage cinema concept
+- community screenings
+- history nights
+
+COMMUNITY EVENTS:
+- schools, groups, remembrance garden
+- local heritage programming
+
+ABOUT:
+- Fernhill’s history
+- location
+- significance to Belfast
+
+CONTACT:
+- simple form
+- map placeholder
+
+-----------------------------------------
+FUNCTIONAL REQUIREMENTS:
+
+- Generate all components and pages
+- Ensure the site builds and runs immediately
+- Use placeholder images
+- Use clean, semantic structure
+- Add comments explaining where future content will go
+- Link all pages in the header and footer
+
+-----------------------------------------
+OUTPUT:
+
+1. Create all folders and files listed above.
+2. Populate each page with appropriate placeholder text.
+3. Add placeholder images.
+4. Generate clean, elegant styling.
+5. Ensure the site runs immediately in Replit.
+6. Commit everything to the linked GitHub repo.

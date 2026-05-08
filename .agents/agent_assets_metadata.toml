@@ -1,0 +1,44 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "Y5gKh-6Qm4rLrlAm0P4XT"
+uri = "file://artifacts/fernhill/src/assets/manor-exterior.png"
+type = "image"
+title = "Victorian manor exterior"
+
+[[generated]]
+id = "TctLYVFzzVPEMnWC5cyoa"
+uri = "file://artifacts/fernhill/src/assets/ceremony-room.png"
+type = "image"
+title = "Elegant ceremony room"
+
+[[generated]]
+id = "OINEXb0WPR1_QscsJiVVy"
+uri = "file://artifacts/fernhill/src/assets/memorial-garden.png"
+type = "image"
+title = "Peaceful memorial garden"
+
+[[generated]]
+id = "baOCTz1Vudin6Ichk_e8C"
+uri = "file://artifacts/fernhill/src/assets/tea-room.png"
+type = "image"
+title = "Warm heritage tea room"
+
+[[generated]]
+id = "j2-ZnATrvtIc_X4hk-MNP"
+uri = "file://artifacts/fernhill/src/assets/cinema.png"
+type = "image"
+title = "Heritage cinema room"
+
+[[generated]]
+id = "a9-JcL_W7xHCb6NCjPCCG"
+uri = "file://artifacts/fernhill/src/assets/walled-garden.png"
+type = "image"
+title = "Mature walled gardens"
+
+[[generated]]
+id = "_7r0S7EKWutA3PV1dZDPx"
+uri = "file://artifacts/fernhill/src/assets/community-space.png"
+type = "image"
+title = "Community gathering space"
