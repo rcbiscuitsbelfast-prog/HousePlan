@@ -18,7 +18,7 @@
 {
   "agent": "wedding-agent",
   "version": "1.0.0",
-  "generated": "2026-05-08T01:45:50.466Z",
+  "generated": "2026-05-08T07:24:20.291Z",
   "status": "scaffold — populate via AI research run"
 }
 ```
