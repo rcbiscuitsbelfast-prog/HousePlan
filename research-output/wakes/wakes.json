@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "agent": "wake-agent",
+    "version": "1.0.0",
+    "generated": "2026-05-08T01:45:50.467Z",
+    "status": "scaffold — populate via AI research run"
+  },
+  "marketOverview": {
+    "annualDeathsBelfast": "TODO: ~5,000–6,000 per year (NI Statistics)",
+    "receptionVenueUptake": "TODO: estimated % that book external venue",
+    "averageSpendPerReception": "TODO: ~£500–£2,000 catering spend",
+    "culturalNote": "Belfast wakes are traditionally home-based but venue receptions are growing post-COVID"
+  },
+  "venues": [
+    {
+      "name": "The Stormont Hotel",
+      "type": "hotel",
+      "capacity": {
+        "standing": 200,
+        "seated": 120
+      },
+      "catering": "Full menu available",
+      "proximityToRoselawn": "~15 min",
+      "pricePerHead": "TODO",
+      "notes": "Common choice for east Belfast and Stormont-area families",
+      "source": "TODO"
+    },
+    {
+      "name": "Malone Lodge Hotel",
+      "type": "hotel",
+      "capacity": {
+        "standing": 150,
+        "seated": 80
+      },
+      "catering": "Full menu available",
+      "proximityToRoselawn": "~25 min",
+      "pricePerHead": "TODO",
+      "notes": "South Belfast. Close to Fernhill's proposed location.",
+      "source": "TODO"
+    }
+  ],
+  "fernhillPositioning": {
+    "proposedOffer": "Dignified garden-house remembrance venue",
+    "uniqueFeatures": [
+      "Peaceful walled garden for quiet reflection",
+      "Intimate rooms — no hotel-banquet feel",
+      "Community-rooted — resonant for local families",
+      "South/west Belfast location — close to key crematoria and cemeteries",
+      "Optional remembrance garden plot dedication"
+    ],
+    "gap": "TODO: quantify underserved demand for dignified non-hotel wake venues in south/west Belfast"
+  },
+  "citations": []
+}

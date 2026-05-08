@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "agent": "operations-agent",
+    "version": "1.0.0",
+    "generated": "2026-05-08T01:45:50.467Z",
+    "status": "scaffold — populate via AI research run"
+  },
+  "capacityAssumptions": {
+    "weddingCeremony": "TODO: 60–120 guests (main hall + garden)",
+    "weddingReception": "TODO: 80–150 guests (dining + dancing)",
+    "wakeReception": "TODO: 40–100 guests (standing/seated mix)",
+    "teaRoom": "TODO: 30–50 covers (daily, lunch service)",
+    "cinemaRoom": "TODO: 30–40 seats",
+    "communityEvents": "TODO: 50–200 depending on configuration"
+  },
+  "revenueStreams": [
+    {
+      "stream": "Weddings",
+      "pricePerEvent": "TODO: £3,500–£8,000 venue hire",
+      "annualEvents": "TODO: 30–50 weddings/year at maturity",
+      "annualRevenue": "TODO",
+      "directCostRatio": "TODO: ~30–40%",
+      "contributionMargin": "TODO",
+      "notes": "Primary revenue driver. Weekends only initially."
+    },
+    {
+      "stream": "Wakes & Funeral Receptions",
+      "pricePerEvent": "TODO: £600–£1,500 venue hire + catering",
+      "annualEvents": "TODO: 60–100 per year",
+      "annualRevenue": "TODO",
+      "directCostRatio": "TODO: ~40–50%",
+      "contributionMargin": "TODO",
+      "notes": "Weekday revenue anchor. High community value."
+    },
+    {
+      "stream": "Tea Room",
+      "pricePerCover": "TODO: £12–£18 average spend",
+      "annualCovers": "TODO",
+      "annualRevenue": "TODO",
+      "directCostRatio": "TODO: ~55–65% (F&B margins)",
+      "contributionMargin": "TODO",
+      "notes": "Daily community activation. Lower margin, high footfall value."
+    },
+    {
+      "stream": "Heritage Cinema",
+      "pricePerTicket": "TODO: £8–£12",
+      "annualScreenings": "TODO: 2–3/week",
+      "annualRevenue": "TODO",
+      "directCostRatio": "TODO: ~30–40%",
+      "contributionMargin": "TODO",
+      "notes": "Community programming. Licensing required."
+    },
+    {
+      "stream": "Community Events & Room Hire",
+      "pricePerEvent": "TODO: £150–£500/day",
+      "annualEvents": "TODO",
+      "annualRevenue": "TODO",
+      "directCostRatio": "TODO: ~20–30%",
+      "contributionMargin": "TODO",
+      "notes": "Fills capacity gaps. Builds community relationships."
+    }
+  ],
+  "staffingModel": {
+    "coreTeam": [
+      {
+        "role": "Venue Manager",
+        "fte": 1,
+        "annualCost": "TODO: ~£35–45k"
+      },
+      {
+        "role": "Events Coordinator",
+        "fte": 1,
+        "annualCost": "TODO: ~£28–35k"
+      },
+      {
+        "role": "Tea Room Manager",
+        "fte": 1,
+        "annualCost": "TODO: ~£25–30k"
+      },
+      {
+        "role": "Maintenance/Grounds",
+        "fte": 1,
+        "annualCost": "TODO: ~£22–28k"
+      }
+    ],
+    "casualStaff": "TODO: 4–8 casual events staff at NLW+",
+    "totalStaffingCost": "TODO: ~£150–200k/yr at maturity"
+  },
+  "financialModel": {
+    "year1Revenue": "TODO: ~£150–200k (ramp-up year)",
+    "year3Revenue": "TODO: ~£350–450k (approaching maturity)",
+    "year5Revenue": "TODO: ~£450–600k (full maturity)",
+    "fixedOverheads": "TODO: ~£200–250k/yr (staff + utilities + maintenance + insurance)",
+    "breakEvenRevenue": "TODO",
+    "breakEvenWeddings": "TODO: estimate weddings needed to cover fixed costs"
+  },
+  "citations": []
+}

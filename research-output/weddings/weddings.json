@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "agent": "wedding-agent",
+    "version": "1.0.0",
+    "generated": "2026-05-08T01:45:50.466Z",
+    "status": "scaffold — populate via AI research run"
+  },
+  "marketOverview": {
+    "annualWeddingsNI": "TODO: NISRA annual figure ~8,000–9,000",
+    "averageTotalSpend": "TODO: ~£25,000–£30,000 per wedding",
+    "venueShareOfSpend": "TODO: ~30–35% of total budget",
+    "heritageSegmentShare": "TODO: estimated 15–20% of venue bookings"
+  },
+  "venues": [
+    {
+      "name": "Belfast Castle",
+      "type": "heritage",
+      "capacity": {
+        "ceremony": 100,
+        "reception": 200
+      },
+      "pricePerHead": "TODO",
+      "minimumSpend": "TODO",
+      "notes": "Owned by Belfast City Council. Cave Hill backdrop.",
+      "source": "TODO"
+    },
+    {
+      "name": "Malone House",
+      "type": "heritage",
+      "capacity": {
+        "ceremony": 80,
+        "reception": 150
+      },
+      "pricePerHead": "TODO",
+      "minimumSpend": "TODO",
+      "notes": "Barnett Demesne. BCC managed.",
+      "source": "TODO"
+    },
+    {
+      "name": "The Merchant Hotel",
+      "type": "hotel",
+      "capacity": {
+        "ceremony": 120,
+        "reception": 280
+      },
+      "pricePerHead": "TODO",
+      "minimumSpend": "TODO",
+      "notes": "Victorian banking hall. Premium tier.",
+      "source": "TODO"
+    }
+  ],
+  "fernhillPositioning": {
+    "proposedTier": "mid-heritage — accessible luxury",
+    "differentiators": [
+      "Community-rooted heritage narrative",
+      "South Belfast location — underserved for heritage venues",
+      "Gardens and grounds for outdoor ceremonies",
+      "Intimate scale — 60–120 guests"
+    ],
+    "gap": "TODO: quantify gap in south Belfast heritage wedding supply"
+  },
+  "citations": []
+}

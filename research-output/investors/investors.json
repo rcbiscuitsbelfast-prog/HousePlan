@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "agent": "investor-agent",
+    "version": "1.0.0",
+    "generated": "2026-05-08T01:45:50.467Z",
+    "status": "scaffold — populate via AI research run"
+  },
+  "investorCategories": [
+    {
+      "category": "Heritage-Aligned Philanthropists",
+      "description": "Individuals who have previously supported NI heritage or cultural causes",
+      "engagementModel": "Gift or grant (non-repayable). Named gift opportunities.",
+      "examples": [
+        {
+          "name": "TODO: Named NI philanthropist",
+          "knownInterests": "TODO",
+          "previousGiving": "TODO",
+          "source": "TODO"
+        }
+      ]
+    },
+    {
+      "category": "Social Impact Investors",
+      "description": "Funds and individuals seeking social return alongside financial return",
+      "engagementModel": "Repayable loan at below-market rate (1–4%); patient capital 10–15 yr",
+      "examples": [
+        {
+          "name": "Social Investment Scotland / Ulster Community Investment Trust",
+          "knownInterests": "Community asset ownership, social enterprise",
+          "previousGiving": "TODO",
+          "source": "TODO"
+        },
+        {
+          "name": "Charity Bank",
+          "knownInterests": "Loans to charities and social enterprises",
+          "previousGiving": "TODO",
+          "source": "https://www.charitybank.org"
+        }
+      ]
+    },
+    {
+      "category": "Corporate Sponsors",
+      "description": "Belfast businesses with active CSR programmes",
+      "engagementModel": "Sponsorship packages with naming rights, event access, PR value",
+      "examples": [
+        {
+          "name": "TODO: Belfast law firms, property developers, financial services",
+          "knownInterests": "TODO",
+          "previousGiving": "TODO",
+          "source": "TODO"
+        }
+      ]
+    },
+    {
+      "category": "Diaspora Donors",
+      "description": "Irish/Belfast diaspora in USA, Canada, Australia with heritage giving interest",
+      "engagementModel": "Gift (US donors can use American Ireland Fund for tax efficiency)",
+      "examples": [
+        {
+          "name": "The American Ireland Fund",
+          "knownInterests": "Peace, reconciliation, culture, heritage",
+          "previousGiving": "TODO",
+          "source": "https://www.irelandfunds.org"
+        }
+      ]
+    }
+  ],
+  "engagementStrategy": {
+    "tier1": "Lead gifts (£100k+) — personal cultivation by Chair/CEO",
+    "tier2": "Major gifts (£10k–£100k) — named opportunity proposition",
+    "tier3": "Community giving (£100–£10k) — community shares / crowdfund",
+    "digitalFundraising": "Crowdfunding platform (e.g. Spacehive, Patronicity) for community phase"
+  },
+  "citations": []
+}
