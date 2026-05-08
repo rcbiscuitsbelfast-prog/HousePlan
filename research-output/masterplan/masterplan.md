@@ -8,6 +8,8 @@
 **Status:** Draft — Not for public circulation
 **Prepared by:** Fernhill Heritage Vision Research Team
 
+**Feasibility-grade package:** For the integrated feasibility study (verbatim transport chapter, planning matrix, capital plan, risk register, supplier outline), see `research-output/masterplan/fernhill-feasibility-study.md`. For the project lead action sequencing pack, see `research-output/masterplan/action-plan-pack-rc.md`.
+
 ---
 
 > *"Fernhill House has stood silent for too long. This plan imagines what it could become — not as a commercial project, but as an act of community restoration."*
