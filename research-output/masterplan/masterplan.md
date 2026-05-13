@@ -157,7 +157,7 @@ Belfast Castle demonstrates, definitively, that Belfast couples will pay a premi
 **Malone House**
 A key public-sector comparator for pricing and operating model — and one of the most important single data points in the market analysis. A Georgian country house (c.1820), Grade B1 listed, set in the Barnett Demesne parkland in south Belfast (BT9 5PB). Owned and managed by Belfast City Council.
 
-The 10-hour wedding package is **£1,044** (2025–26) rising to **£1,075** (2026–27), including the Hilsborowe Room for the ceremony and arrival drinks, the Harberton Room for the reception from 3pm to 1am, the Malone Room bar from 6pm to 1am, a wedding changing room, landscaped gardens, red carpet, table plan, and PA system. In-house catering is available (unlike Belfast Castle, which uses external caterers).
+The 10-hour wedding package is **£1,044** (2025–26) rising to **£1,075** (2026–27), including the Hilsborowe Room for the ceremony and arrival drinks, the Harberton Room for the reception from 3pm to 1am, the Malone Room bar from 6pm to 1am, a wedding changing room, landscaped gardens, red carpet, table plan, and PA system. Malone House and Belfast Castle both provide published public-sector pricing benchmarks for model calibration.
 
 The Harberton Room is also available by the hour at **£105/hr** before 6pm and **£115/hr** after 6pm, with a daytime block rate of **£505** (9am–5pm) and a full ten-hour block at **£1,075** from 2026–27 [S04]. Its south Belfast location makes it a useful city comparator for pricing and format, even though Fernhill's immediate local catchment is west/northwest Belfast.
 
@@ -952,7 +952,7 @@ All of the above — the financial models, the governance structures, the fundin
 
 Fernhill House is a listed Victorian building in west/northwest Belfast that has been empty for too long [S01]. It could be a wedding venue and a place for wakes and a tea room and a heritage cinema and a community space. It could employ six people. It could host life events for local families and the wider city. It could be saved.
 
-The money exists. The funding landscape is more favourable than it has been in a generation — £290 million in NLHF grants to NI since 1994; a new Historic Environment Fund launched by the NI Executive; £15.1 million in PEACEPLUS funds for Belfast community projects. The demand exists — Malone House is at capacity every weekend, demonstrating an unmet need in the same catchment Fernhill would serve. The model works — six case studies from Belfast and across the UK demonstrate that community-owned heritage venues at this scale are viable, sustainable, and valued.
+The money exists. The funding landscape is more favourable than it has been in a generation — £290 million in NLHF grants to NI since 1994; a new Historic Environment Fund launched by the NI Executive; £15.1 million in PEACEPLUS funds for Belfast community projects. The demand case is plausible but must be validated through a documented demand study, supplier interviews, and scenario modelling. The model is credible because case studies from Belfast and across the UK demonstrate that community-owned heritage venues at this scale can be viable, sustainable, and valued when governance, costs, and operations are controlled.
 
 The only thing that does not yet exist is the group of people who decide to make it happen.
 
