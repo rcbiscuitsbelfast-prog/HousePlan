@@ -1,52 +1,66 @@
 import { Link } from "wouter";
 import { motion } from "framer-motion";
-import exteriorImg from "@/assets/manor-exterior.png";
-import ceremonyImg from "@/assets/ceremony-room.png";
-import memorialImg from "@/assets/memorial-garden.png";
-import teaRoomImg from "@/assets/tea-room.png";
-import cinemaImg from "@/assets/cinema.png";
-import communityImg from "@/assets/community-space.png";
+import { evidencePoints, proposedUses, siteFacts } from "@/lib/proposal-data";
 
 const fadeIn = {
   hidden: { opacity: 0, y: 20 },
-  visible: { opacity: 1, y: 0, transition: { duration: 0.8, ease: "easeOut" } }
+  visible: { opacity: 1, y: 0, transition: { duration: 0.8 } }
 };
 
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen">
-      {/* Hero Section */}
-      <section className="relative h-[80vh] min-h-[600px] flex items-center justify-center overflow-hidden">
-        <div className="absolute inset-0">
-          <img 
-            src={exteriorImg} 
-            alt="Fernhill House proposed exterior" 
-            className="w-full h-full object-cover"
-          />
-          <div className="absolute inset-0 bg-black/40" />
+      <section className="relative min-h-[680px] flex items-center overflow-hidden bg-primary text-primary-foreground">
+        <div className="absolute inset-0 opacity-20">
+          <div className="h-full w-full bg-[radial-gradient(circle_at_20%_20%,white,transparent_28%),linear-gradient(120deg,transparent,rgba(255,255,255,.18),transparent)]" />
         </div>
-        
-        <div className="relative z-10 text-center text-white px-4 max-w-4xl mx-auto mt-20">
-          <motion.h1 
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 1, delay: 0.2 }}
-            className="text-5xl md:text-7xl font-serif mb-6 leading-tight"
+
+        <div className="relative z-10 px-4 md:px-8 max-w-6xl mx-auto pt-20 grid lg:grid-cols-[1.2fr_.8fr] gap-12 items-center">
+          <div>
+            <motion.h1 
+              initial={{ opacity: 0, y: 30 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 1, delay: 0.2 }}
+              className="text-5xl md:text-7xl font-serif mb-6 leading-tight"
+            >
+              A public proposal for Fernhill House
+            </motion.h1>
+            <motion.p 
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ duration: 1, delay: 0.6 }}
+              className="text-xl md:text-2xl font-light leading-relaxed opacity-90 max-w-2xl"
+            >
+              A feasibility-stage plan to restore Fernhill House in Glencairn Park as a community-led heritage venue with public access, learning, remembrance, and carefully managed earned income.
+            </motion.p>
+            <div className="flex flex-wrap gap-4 mt-10">
+              <Link href="/proposal" className="bg-secondary text-secondary-foreground px-6 py-4 uppercase tracking-widest text-xs font-semibold">
+                Read the Proposal
+              </Link>
+              <Link href="/evidence" className="border border-primary-foreground/50 px-6 py-4 uppercase tracking-widest text-xs font-semibold">
+                Inspect the Evidence
+              </Link>
+            </div>
+          </div>
+          <motion.div
+            initial={{ opacity: 0, x: 30 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ duration: 1, delay: 0.4 }}
+            className="bg-background text-foreground p-8 border border-primary-foreground/20"
           >
-            A Future Vision for Fernhill House
-          </motion.h1>
-          <motion.p 
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ duration: 1, delay: 0.6 }}
-            className="text-xl md:text-2xl font-light tracking-wide opacity-90 max-w-2xl mx-auto"
-          >
-            Reimagining a dignified, community-rooted heritage space in the heart of Belfast.
-          </motion.p>
+            <p className="uppercase tracking-widest text-xs text-secondary font-semibold mb-6">At a glance</p>
+            <div className="space-y-5">
+              {siteFacts.map((fact) => (
+                <div key={fact.label} className="border-b border-border pb-4 last:border-b-0 last:pb-0">
+                  <p className="font-serif text-xl text-primary">{fact.label}</p>
+                  <p className="text-sm text-foreground/70 leading-relaxed mt-1">{fact.value}</p>
+                </div>
+              ))}
+            </div>
+          </motion.div>
         </div>
       </section>
 
-      {/* Mission Statement */}
       <section className="py-24 bg-background px-4">
         <div className="max-w-3xl mx-auto text-center">
           <motion.div 
@@ -55,58 +69,48 @@ export default function Home() {
             viewport={{ once: true, margin: "-100px" }}
             variants={fadeIn}
           >
-            <h2 className="text-3xl md:text-4xl font-serif text-primary mb-8">The Dream We Share</h2>
+            <h2 className="text-3xl md:text-4xl font-serif text-primary mb-8">What this website is for</h2>
             <p className="text-lg text-foreground/80 leading-relaxed mb-6 font-light">
-              This project presents a conceptual vision—a dream of what Fernhill House could become. 
-              Currently closed and awaiting restoration, we envision returning this historic Victorian manor 
-              to the community as a place of dignity, remembrance, and shared heritage.
+              This site introduces the proposal, shares the evidence gathered so far, and sets out the next steps needed before any funding application or architectural design can be finalised.
             </p>
             <p className="text-lg text-foreground/80 leading-relaxed font-light">
-              A place not driven by profit, but by a reverence for the past and a commitment to the future of Belfast.
+              The aim is to let councillors, council officers, funders, consultants, local residents, and potential supporters inspect the idea and understand what still needs professional validation.
             </p>
           </motion.div>
         </div>
       </section>
 
-      {/* Proposed Concepts Grid */}
       <section className="py-24 bg-muted px-4 md:px-8">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-serif text-primary mb-4">Proposed Uses</h2>
-            <p className="text-foreground/70 uppercase tracking-widest text-sm">Imagining the future spaces</p>
+            <h2 className="text-3xl md:text-4xl font-serif text-primary mb-4">Proposed uses</h2>
+            <p className="text-foreground/70 uppercase tracking-widest text-sm">A mixed model for public benefit and long-term upkeep</p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            <ConceptCard 
-              href="/weddings"
-              image={ceremonyImg}
-              title="Weddings & Ceremonies"
-              description="An elegant heritage setting for life's most meaningful moments, surrounded by mature gardens."
-            />
-            <ConceptCard 
-              href="/wakes"
-              image={memorialImg}
-              title="Wakes & Remembrance"
-              description="Dignified, quiet spaces offering a respectful environment for families and community."
-            />
-            <ConceptCard 
-              href="/tea-room"
-              image={teaRoomImg}
-              title="Heritage Tea Room"
-              description="A warm, homely space for daily community connection amidst period interiors."
-            />
-            <ConceptCard 
-              href="/cinema"
-              image={cinemaImg}
-              title="Community Cinema"
-              description="An intimate screening room for heritage programming and local storytelling."
-            />
-            <ConceptCard 
-              href="/community"
-              image={communityImg}
-              title="Community Events"
-              description="Educational programs, local gatherings, and a shared space for the Casement Park area."
-            />
+            {proposedUses.map((use) => (
+              <ConceptCard key={use.title} title={use.title} description={use.text} />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="py-24 px-4 md:px-8">
+        <div className="max-w-6xl mx-auto grid lg:grid-cols-[.85fr_1.15fr] gap-12">
+          <div>
+            <p className="uppercase tracking-widest text-sm text-secondary font-semibold mb-4">Evidence-led</p>
+            <h2 className="text-3xl md:text-4xl font-serif text-primary mb-6">The proposal is promising, but it must be tested properly.</h2>
+            <p className="text-foreground/75 leading-relaxed font-light">
+              The next stage is not a public fundraising campaign for final works. It is a development phase: survey, options appraisal, pre-application advice, community engagement, and a costed business plan.
+            </p>
+          </div>
+          <div className="grid md:grid-cols-2 gap-6">
+            {evidencePoints.map((point) => (
+              <div key={point.title} className="border border-border bg-card p-6">
+                <h3 className="font-serif text-xl text-primary mb-3">{point.title}</h3>
+                <p className="text-sm text-foreground/70 leading-relaxed">{point.text}</p>
+              </div>
+            ))}
           </div>
         </div>
       </section>
@@ -114,37 +118,18 @@ export default function Home() {
   );
 }
 
-function ConceptCard({ href, image, title, description }: { href: string, image: string, title: string, description: string }) {
+function ConceptCard({ title, description }: { title: string, description: string }) {
   return (
-    <Link href={href}>
-      <motion.div 
-        initial="hidden"
-        whileInView="visible"
-        viewport={{ once: true, margin: "-50px" }}
-        variants={fadeIn}
-        className="group cursor-pointer block h-full bg-card hover:bg-card/90 transition-colors border border-border"
-        data-testid={`card-concept-${title.toLowerCase().replace(/\s+/g, '-')}`}
-      >
-        <div className="aspect-[4/3] overflow-hidden">
-          <img 
-            src={image} 
-            alt={title} 
-            className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
-          />
-        </div>
-        <div className="p-8">
-          <h3 className="font-serif text-2xl text-primary mb-3">{title}</h3>
-          <p className="text-foreground/70 font-light leading-relaxed">
-            {description}
-          </p>
-          <div className="mt-6 flex items-center text-secondary uppercase tracking-widest text-xs font-semibold">
-            <span>Explore Concept</span>
-            <svg className="w-4 h-4 ml-2 transition-transform group-hover:translate-x-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-            </svg>
-          </div>
-        </div>
-      </motion.div>
-    </Link>
+    <motion.div
+      initial="hidden"
+      whileInView="visible"
+      viewport={{ once: true, margin: "-50px" }}
+      variants={fadeIn}
+      className="h-full bg-card border border-border p-8"
+      data-testid={`card-concept-${title.toLowerCase().replace(/\s+/g, '-')}`}
+    >
+      <h3 className="font-serif text-2xl text-primary mb-3">{title}</h3>
+      <p className="text-foreground/70 font-light leading-relaxed">{description}</p>
+    </motion.div>
   );
 }

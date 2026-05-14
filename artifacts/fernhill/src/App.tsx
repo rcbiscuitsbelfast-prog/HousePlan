@@ -6,13 +6,10 @@ import { Layout } from "@/components/layout";
 import NotFound from "@/pages/not-found";
 
 import Home from "@/pages/home";
-import Weddings from "@/pages/weddings";
-import Wakes from "@/pages/wakes";
-import TeaRoom from "@/pages/tea-room";
-import Cinema from "@/pages/cinema";
-import Community from "@/pages/community";
-import About from "@/pages/about";
-import Contact from "@/pages/contact";
+import Proposal from "@/pages/proposal";
+import Evidence from "@/pages/evidence";
+import Delivery from "@/pages/delivery";
+import GetInvolved from "@/pages/get-involved";
 
 const queryClient = new QueryClient();
 
@@ -21,13 +18,17 @@ function Router() {
     <Layout>
       <Switch>
         <Route path="/" component={Home} />
-        <Route path="/weddings" component={Weddings} />
-        <Route path="/wakes" component={Wakes} />
-        <Route path="/tea-room" component={TeaRoom} />
-        <Route path="/cinema" component={Cinema} />
-        <Route path="/community" component={Community} />
-        <Route path="/about" component={About} />
-        <Route path="/contact" component={Contact} />
+        <Route path="/proposal" component={Proposal} />
+        <Route path="/evidence" component={Evidence} />
+        <Route path="/delivery" component={Delivery} />
+        <Route path="/get-involved" component={GetInvolved} />
+        <Route path="/weddings" component={Proposal} />
+        <Route path="/wakes" component={Proposal} />
+        <Route path="/tea-room" component={Proposal} />
+        <Route path="/cinema" component={Proposal} />
+        <Route path="/community" component={Proposal} />
+        <Route path="/about" component={Evidence} />
+        <Route path="/contact" component={GetInvolved} />
         <Route component={NotFound} />
       </Switch>
     </Layout>
