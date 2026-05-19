@@ -109,44 +109,44 @@ Purpose: Track factual validation, corrections, and confidence for masterplan cl
 ### FC-009 "Routinely booked months in advance"
 
 - Problem: strong market assertion but no cited dataset in current draft.
-- Status: Needs Revalidation
-- Confidence: Low
-- Action: replace with directly evidenced claim or convert to assumption.
+- Status: **Corrected (May 2026)** — reframed as "high weekend demand reported; confirm via BCC venue management enquiry"
+- Confidence: Medium (anecdotal/industry pattern only until confirmed)
+- Action: optional FOI or officer call to Malone House/Belfast Castle for occupancy data.
 
 ### FC-010 Unmet demand estimate "185-225 couples/year"
 
-- Problem: derived from assumptions not clearly documented in current draft.
-- Status: Needs Revalidation
-- Confidence: Low
-- Action: provide formula and explicit assumptions, or downgrade to scenario range.
+- Problem: derived from assumptions not clearly documented; geography incorrectly mixed south/west with Fernhill (Glencairn).
+- Status: **Corrected (May 2026)** — replaced with transparent derived model: ~40–55 couples/year west/northwest Belfast heritage preference (see `weddings.json` demandModel_inputs)
+- Confidence: Low until formal demand study
+- Action: commission wedding market survey before NLHF Stage 2.
 
 ### FC-011 Drive-time claims to cemeteries/crematoria
 
 - Problem: approximate times are uncited and time-dependent.
-- Status: Needs Revalidation
+- Status: **Flagged** — retained as indicative only in `wakes.json` and section-4; labelled "field verification required"
 - Confidence: Low
-- Action: re-measure with a documented method, timestamp, and traffic profile assumptions.
+- Action: document Google Maps routes with date/time stamp for grant appendix.
 
 ### FC-012 Catchment population estimates
 
 - Problem: current draft uses broad population ranges without explicit source citation.
-- Status: Needs Revalidation
-- Confidence: Low
-- Action: cite NISRA small-area or local authority dataset and show aggregation method.
+- Status: **Corrected (May 2026)** — wedding demand model now uses NISRA marriage totals with explicit percentage assumptions
+- Confidence: Medium for NI totals; Low for sub-Belfast splits
+- Action: cite NISRA small-area stats if hyperlocal population claims are reintroduced.
 
 ### FC-013 Restoration unit-cost benchmark ranges
 
 - Problem: some values are benchmark-style and may be plausible but need named publishable references.
-- Status: Needs Revalidation
-- Confidence: Medium-Low
-- Action: confirm with current BCIS/QS references and date-adjust indices.
+- Status: **Documented** — sourced to Property Conservation Company / industry guides in `restoration.json` and `section-5-restoration.md`
+- Confidence: Medium-Low until QS plan
+- Action: QS to replace parametric ranges in `financial-model.md` §5.
 
 ---
 
 ## Repo Impact Notes
 
 - The existing `masterplan.md` currently includes repeated south Belfast references that should be treated as materially incorrect for v3.
-- The section writer/orchestrator pipeline is scaffold-first and not currently enforcing citation completeness; v3 should add a validation step that fails output if uncited factual claims remain.
+- Section narratives (`section-3` through `section-10`) and investor research were completed May 2026. Commissioned surveys remain the critical path before NLHF Stage 2.
 
 ---
 

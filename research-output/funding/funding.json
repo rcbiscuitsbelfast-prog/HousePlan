@@ -46,11 +46,12 @@
       "description": "NI-specific programme supporting community-led heritage building regeneration.",
       "programmes": [
         {
-          "name": "Project Development Grant",
-          "range": "£10,000–£100,000",
+          "name": "Harnessing Heritage — Project Development Grant (NI)",
+          "range": "Up to £20,000 (NI programme; confirm current cap via AHF Funding Finder)",
           "matchRequired": "None",
-          "window": "Rolling — no deadline",
-          "fernhillUse": "Phase 1 feasibility: professional building survey, business plan, architectural design"
+          "window": "Rolling — monthly assessment; decision typically 6–8 weeks",
+          "fernhillUse": "Phase 1 feasibility: condition survey, options appraisal, pre-application support, business plan inputs",
+          "source": "https://ahfund.org.uk/grants/northern-ireland/"
         },
         {
           "name": "Viability and Capacity Grant",
@@ -59,7 +60,7 @@
           "fernhillUse": "Governance setup and early capacity building during founding trustee period"
         }
       ],
-      "fernhillTarget": "£50,000–£80,000 Project Development Grant — FIRST APPLICATION TO SUBMIT"
+      "fernhillTarget": "£15,000–£20,000 Harnessing Heritage PDG (first NI application) plus national AHF programmes if eligible — FIRST FUNDER CONVERSATION"
     },
     {
       "name": "Historic Environment Fund — NI",
@@ -109,7 +110,7 @@
     "phase1_feasibility": {
       "targetRaise": "£80,000–£160,000",
       "sources": [
-        { "funder": "AHF Project Development Grant", "target": "£50,000–£80,000" },
+        { "funder": "AHF Harnessing Heritage PDG (NI)", "target": "£15,000–£20,000" },
         { "funder": "Belfast City Council community grant", "target": "£15,000–£30,000" },
         { "funder": "CFNI donor-advised fund", "target": "£10,000–£30,000" },
         { "funder": "Pilgrim Trust", "target": "£5,000–£20,000" }

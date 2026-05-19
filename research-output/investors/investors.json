@@ -1,75 +1,191 @@
 {
   "meta": {
     "agent": "investor-agent",
-    "version": "1.0.0",
-    "generated": "2026-05-08T07:24:20.292Z",
-    "status": "scaffold — populate via AI research run"
+    "version": "3.0.0",
+    "generated": "2026-05-14",
+    "status": "POPULATED — verified programme references; named examples require cultivation",
+    "sources": [
+      "https://ahfund.org.uk/grants/northern-ireland/",
+      "https://www.heritagefund.org.uk/in-your-area/northern-ireland",
+      "https://www.communityfoundationni.org",
+      "https://www.thepilgrimtrust.org.uk",
+      "https://www.wolfson.org.uk",
+      "https://www.garfieldweston.org",
+      "https://www.irelandfunds.org",
+      "https://www.charitybank.org",
+      "https://www.ucit.co.uk",
+      "https://www.tnlcommunityfund.org.uk/funding/funding-programmes/dormant-assets-for-all/"
+    ]
   },
   "investorCategories": [
     {
-      "category": "Heritage-Aligned Philanthropists",
-      "description": "Individuals who have previously supported NI heritage or cultural causes",
-      "engagementModel": "Gift or grant (non-repayable). Named gift opportunities.",
+      "id": "heritage-philanthropy",
+      "name": "Heritage-aligned philanthropic trusts",
+      "description": "UK trusts with explicit heritage buildings, conservation, or arts mandates; several have funded NI projects.",
+      "engagementModel": "Capital grant or restricted donation; typically requires CCNI-registered charity and match plan.",
       "examples": [
         {
-          "name": "TODO: Named NI philanthropist",
-          "knownInterests": "TODO",
-          "previousGiving": "TODO",
-          "source": "TODO"
-        }
-      ]
-    },
-    {
-      "category": "Social Impact Investors",
-      "description": "Funds and individuals seeking social return alongside financial return",
-      "engagementModel": "Repayable loan at below-market rate (1–4%); patient capital 10–15 yr",
-      "examples": [
-        {
-          "name": "Social Investment Scotland / Ulster Community Investment Trust",
-          "knownInterests": "Community asset ownership, social enterprise",
-          "previousGiving": "TODO",
-          "source": "TODO"
+          "name": "The Pilgrim Trust",
+          "knownInterests": "Heritage buildings, preservation, social welfare",
+          "typicalGrants": "£10,000–£100,000",
+          "previousGiving": "UK heritage capital and organisational development; NI projects via national programmes",
+          "source": "https://www.thepilgrimtrust.org.uk",
+          "fernhillUse": "Feasibility match; capital match layer in Phase 2"
         },
         {
-          "name": "Charity Bank",
-          "knownInterests": "Loans to charities and social enterprises",
-          "previousGiving": "TODO",
-          "source": "https://www.charitybank.org"
+          "name": "Wolfson Foundation",
+          "knownInterests": "Heritage, education, health, science",
+          "typicalGrants": "£15,000–£200,000+",
+          "previousGiving": "Major UK heritage capital grants",
+          "source": "https://www.wolfson.org.uk",
+          "fernhillUse": "Phase B capital match once designs and cost plan exist"
+        },
+        {
+          "name": "Garfield Weston Foundation",
+          "knownInterests": "Heritage, community, environment (UK-wide)",
+          "typicalGrants": "£10,000–£100,000",
+          "previousGiving": "Supports AHF NI Harnessing Heritage programme nationally",
+          "source": "https://www.garfieldweston.org",
+          "fernhillUse": "Development or capital match; aligns with AHF ecosystem"
+        },
+        {
+          "name": "Esmée Fairbairn Foundation",
+          "knownInterests": "Arts, heritage, environment, social change",
+          "typicalGrants": "£50,000–£500,000+",
+          "previousGiving": "UK-wide; selective NI heritage",
+          "source": "https://www.esmeefairbairn.org.uk",
+          "fernhillUse": "Larger capital or blended finance once governance mature"
         }
       ]
     },
     {
-      "category": "Corporate Sponsors",
-      "description": "Belfast businesses with active CSR programmes",
-      "engagementModel": "Sponsorship packages with naming rights, event access, PR value",
+      "id": "ni-place-based",
+      "name": "Northern Ireland place-based funders",
+      "description": "Funders with NI delivery focus and community/heritage alignment.",
+      "engagementModel": "Grant; often via themed funds or donor-advised structures.",
       "examples": [
         {
-          "name": "TODO: Belfast law firms, property developers, financial services",
-          "knownInterests": "TODO",
-          "previousGiving": "TODO",
-          "source": "TODO"
-        }
-      ]
-    },
-    {
-      "category": "Diaspora Donors",
-      "description": "Irish/Belfast diaspora in USA, Canada, Australia with heritage giving interest",
-      "engagementModel": "Gift (US donors can use American Ireland Fund for tax efficiency)",
-      "examples": [
+          "name": "Community Foundation for Northern Ireland (CFNI)",
+          "knownInterests": "Community development, young people, older people, place-based funds",
+          "typicalGrants": "£5,000–£50,000 (fund-dependent)",
+          "previousGiving": "Administers multiple funds including corporate and dormant-accounts-linked programmes",
+          "source": "https://www.communityfoundationni.org",
+          "fernhillUse": "Community engagement, feasibility, early programming"
+        },
+        {
+          "name": "National Lottery Community Fund — Dormant Assets for All (NI)",
+          "knownInterests": "VCSE resilience, skills, organisational capacity",
+          "typicalGrants": "£300–£20,000",
+          "previousGiving": "NI VCSE capacity building",
+          "source": "https://www.tnlcommunityfund.org.uk/funding/funding-programmes/dormant-assets-for-all/",
+          "fernhillUse": "Trustee training, governance setup, engagement systems"
+        },
         {
           "name": "The American Ireland Fund",
-          "knownInterests": "Peace, reconciliation, culture, heritage",
-          "previousGiving": "TODO",
-          "source": "https://www.irelandfunds.org"
+          "knownInterests": "Peace, reconciliation, culture, heritage on island of Ireland",
+          "typicalGrants": "$25,000–$250,000",
+          "previousGiving": "Belfast cultural and peace-building projects",
+          "source": "https://www.irelandfunds.org",
+          "fernhillUse": "Diaspora capital match; cross-community programming"
+        }
+      ]
+    },
+    {
+      "id": "social-investment",
+      "name": "Social investment and patient capital",
+      "description": "Repayable finance for charities and social enterprises; bridges grant drawdown gaps.",
+      "engagementModel": "Loan or blended finance; requires business plan and security/asset narrative.",
+      "examples": [
+        {
+          "name": "Charity Bank",
+          "knownInterests": "Charities and social enterprises with asset-backed or strong cashflow cases",
+          "typicalTerms": "£50,000–£3m+; below-market rates; 5–25 years",
+          "previousGiving": "UK charity property and working capital loans",
+          "source": "https://www.charitybank.org",
+          "fernhillUse": "Bridge between grant award and construction cashflow (Year 0–1 of build)"
+        },
+        {
+          "name": "Ulster Community Investment Trust (UCIT)",
+          "knownInterests": "NI social enterprises and community businesses",
+          "typicalTerms": "Patient loans; NI-focused underwriting",
+          "previousGiving": "NI community asset and enterprise finance",
+          "source": "https://www.ucit.co.uk",
+          "fernhillUse": "Fit-out or working-capital bridge if trading subsidiary cashflow supports"
+        },
+        {
+          "name": "Social Investment Scotland (SIS)",
+          "knownInterests": "Social enterprises UK-wide including NI",
+          "typicalTerms": "Loans and blended packages",
+          "previousGiving": "Community asset projects",
+          "source": "https://www.socialinvestmentscotland.com",
+          "fernhillUse": "Secondary option if UCIT/Charity Bank terms less favourable"
+        }
+      ]
+    },
+    {
+      "id": "corporate-csr",
+      "name": "Corporate sponsorship and CSR",
+      "description": "Belfast and NI firms with active CSR, skills volunteering, and sponsorship budgets.",
+      "engagementModel": "Sponsorship, in-kind professional services, named gifts, staff volunteering.",
+      "examples": [
+        {
+          "name": "Openreach (via CFNI Openreach Community Fund)",
+          "knownInterests": "Grassroots groups; young people, older people, disability inclusion",
+          "typicalGrants": "Small grants via CFNI (income thresholds apply)",
+          "previousGiving": "NI community projects via CFNI",
+          "source": "https://communityfoundationni.org/grants/openreach-community-fund/",
+          "fernhillUse": "Early community programming or accessibility improvements"
+        },
+        {
+          "name": "Belfast law, construction, and professional services firms (cultivation list)",
+          "knownInterests": "Heritage, community, arts sponsorship — firm-specific",
+          "typicalGrants": "£2,000–£25,000 sponsorship tiers",
+          "previousGiving": "Varies — require desk research per firm CSR report",
+          "source": "Company annual reports / Belfast Chamber",
+          "fernhillUse": "Launch event sponsorship, skills pro bono (legal, QS, marketing)",
+          "cultivationTargets": [
+            "Tughan & Co / local construction firms (heritage fit-out supply chain)",
+            "Belfast solicitors with charity practices (governance pro bono)",
+            "Regional banks (CSR and branch community funds)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "community-ownership",
+      "name": "Community shares and crowdfunding",
+      "description": "Non-repayable or withdrawable community investment alongside charity structure.",
+      "engagementModel": "Community shares (FCA-regulated offer) or rewards crowdfunding.",
+      "examples": [
+        {
+          "name": "Community Benefit Society share offer",
+          "knownInterests": "Local ownership narrative",
+          "typicalRaise": "£50,000–£150,000",
+          "previousGiving": "UK heritage and pub/community asset precedents",
+          "source": "https://www.communityshares.com",
+          "fernhillUse": "Match funding layer; sits alongside CLG — legal advice required"
+        },
+        {
+          "name": "Spacehive / Crowdfunder UK",
+          "knownInterests": "Place-based capital appeals",
+          "typicalRaise": "£10,000–£100,000",
+          "previousGiving": "UK heritage and park projects",
+          "source": "https://www.spacehive.com",
+          "fernhillUse": "Public phase of match funding after planning route clear"
         }
       ]
     }
   ],
   "engagementStrategy": {
-    "tier1": "Lead gifts (£100k+) — personal cultivation by Chair/CEO",
-    "tier2": "Major gifts (£10k–£100k) — named opportunity proposition",
-    "tier3": "Community giving (£100–£10k) — community shares / crowdfund",
-    "digitalFundraising": "Crowdfunding platform (e.g. Spacehive, Patronicity) for community phase"
+    "tier1": { "threshold": "£100,000+", "approach": "Chair/trustee cultivation; named capital gift; multi-year pledge" },
+    "tier2": { "threshold": "£10,000–£100,000", "approach": "Named room/garden opportunity; trust application with full pack" },
+    "tier3": { "threshold": "£100–£10,000", "approach": "Community giving, crowdfunding, local business sponsorship" }
   },
-  "citations": []
+  "citations": [
+    { "id": 1, "text": "AHF Northern Ireland", "url": "https://ahfund.org.uk/grants/northern-ireland/" },
+    { "id": 2, "text": "NLHF Northern Ireland", "url": "https://www.heritagefund.org.uk/in-your-area/northern-ireland" },
+    { "id": 3, "text": "Community Foundation NI", "url": "https://www.communityfoundationni.org" },
+    { "id": 4, "text": "Pilgrim Trust", "url": "https://www.thepilgrimtrust.org.uk" },
+    { "id": 5, "text": "Charity Bank", "url": "https://www.charitybank.org" }
+  ]
 }

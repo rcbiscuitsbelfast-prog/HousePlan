@@ -20,7 +20,7 @@ Six cases examined: four in Belfast/NI, two UK comparators. Consistent pattern:
 - **10-hour wedding package:** £1,071 (April 2025–March 2026) [1]
 - **Ceremony:** ~100 guests | **Reception:** ~200 guests
 - **Revenue streams:** Weddings (primary), events, restaurant, heritage tours
-- **Weekend occupancy:** High — consistently booked months ahead
+- **Weekend occupancy:** High demand reported — confirm via BCC management enquiry
 
 **Lesson for Fernhill:** Proof of concept. BCC pricing is subsidised and capped. Independent Fernhill can price at 100–230% premium while still below commercial hotel rates. Heritage narrative generates self-referral bookings.
 
@@ -32,9 +32,9 @@ Six cases examined: four in Belfast/NI, two UK comparators. Consistent pattern:
 - **10-hour wedding package:** £1,044 (2025–26); £1,075 (2026–27) [1][2]
 - **Harberton Room:** £105/hr (before 6pm); £115/hr (after 6pm); daytime block £505 [2]
 - **Ceremony:** ~80 | **Reception:** ~150 | **In-house catering available**
-- **Weekend occupancy:** Routinely fully booked — booked months ahead
+- **Weekend occupancy:** High demand reported — confirm via BCC management enquiry
 
-**Lesson for Fernhill:** Closest geographic comparator — same south Belfast catchment. Published pricing is the clearest market benchmark available. High occupancy confirms real, proven, unmet demand in Fernhill's target market.
+**Lesson for Fernhill:** Closest **format** comparator (Georgian BCC heritage house). Malone House is in **south Belfast (BT9)**; Fernhill is in **Glencairn, west/northwest Belfast (BT13)**. Use Malone for **pricing and package structure**, not geographic equivalence. Citywide heritage wedding demand is evidenced by BCC published rates and occupancy patterns.
 
 ---
 

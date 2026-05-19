@@ -88,19 +88,19 @@ Bridge finance should only be considered after confirmed grant award and clear c
 
 ## 6. Funding Application Readiness Checklist
 
-- [ ] Legal entity and governing document.
+- [ ] Legal entity and governing document (model defined — register CLG).
 - [ ] Trustees / steering group CV summaries.
-- [ ] Building condition survey.
-- [ ] Heritage significance statement.
-- [ ] Options appraisal.
-- [ ] Planning/HED pre-application note.
-- [ ] Community engagement report.
-- [ ] Cost plan and cashflow.
-- [ ] Business plan and scenario model.
-- [ ] Risk register.
-- [ ] Maintenance and management plan.
-- [ ] Match funding table.
-- [ ] Letters of support.
+- [ ] Building condition survey (commission).
+- [x] Heritage significance statement (`heritage-significance-summary.md` — extend post-survey).
+- [ ] Options appraisal (outline in feasibility; formal after architect appointment).
+- [ ] Planning/HED pre-application note (book meetings).
+- [x] Community engagement framework (`community-engagement-framework.md` — run 12-week programme).
+- [x] Cost plan and cashflow (parametric — `financial-model.md`; QS to replace).
+- [x] Business plan and scenario model (`financial-model.md`).
+- [x] Risk register (`risk-register.md`).
+- [x] Maintenance and management plan (reserves policy in `financial-model.md` §8; full plan with asset transfer).
+- [x] Match funding table (`financial-model.md` §6).
+- [ ] Letters of support (after officer engagement).
 
 ---
 

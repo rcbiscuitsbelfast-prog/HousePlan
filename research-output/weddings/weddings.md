@@ -18,7 +18,7 @@
 
 | Venue | Type | Listing | Ceremony | Reception | Venue Hire (10hr) | Garden |
 |-------|------|---------|----------|-----------|------------------|--------|
-| Belfast Castle | Victorian baronial castle (1870) | Grade B+ | ~100 | ~200 | **£1,071** (2025–26) [3] | Yes |
+| Belfast Castle | Victorian baronial castle (1870) | Grade B+ | ~100 | ~200 | **£1,071** (2025–26); **£1,110** (2026–27) [3] | Yes |
 | Malone House | Georgian country house (c.1820) | Grade B1 | ~80 | ~150 | **£1,044** (2025–26); **£1,075** (2026–27) [4][5] | Yes |
 | Larchfield Estate | Georgian estate | — | ~180 | ~220 | est. £80–£145/head | Yes |
 | Killeavy Castle Estate | Castle estate | — | ~200 | ~300 | est. £95–£165/head | Yes |
@@ -29,9 +29,11 @@
 
 ---
 
-## Geographic Gap
+## Geographic Gap (corrected May 2026)
 
-South and west Belfast (~120,000–160,000 people) has **no independent heritage house wedding venue**. Malone House (BCC-managed, south Belfast) is at capacity on weekends. Estimated **185–225 couples/year** in the catchment unable to access their preferred heritage venue. Fernhill fills this gap directly.
+**Fernhill** is in **Glencairn Park, west/northwest Belfast (BT13)** [S01]. **Malone House** serves **south Belfast (BT9)** — a format benchmark, not the same local catchment.
+
+West/northwest Belfast has **no BCC-managed heritage-house wedding venue** equivalent to Malone House or Belfast Castle. **Derived demand model** (requires formal survey): from ~337 estimated annual marriages in west/northwest Belfast, ~15% heritage preference → **~51 couples/year**; illustrative unmet local heritage-house demand **~40–55 couples/year** if a venue existed. See `weddings.json` → `geographicGapAnalysis.demandModel_inputs`.
 
 ---
 
@@ -43,7 +45,7 @@ South and west Belfast (~120,000–160,000 people) has **no independent heritage
 **Annual wedding revenue at maturity:** £144,000 (venue hire only)
 
 **Key differentiators:**
-- Only independent heritage house venue in south/west Belfast
+- First heritage-house wedding venue anchored in west/northwest Belfast (Glencairn Park)
 - Community-owned — couples support a meaningful restoration
 - Walled gardens for outdoor ceremony and photography
 - Intimate scale — every wedding is the only event of the day

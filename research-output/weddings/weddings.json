@@ -38,13 +38,14 @@
       "location": "Cave Hill, Belfast BT15 5GR",
       "ceremony_capacity": 100,
       "reception_capacity": 200,
-      "venueHire_10hr": "£1,071 (April 2025–March 2026)",
-      "includes": "Full ground floor — Donegall Room (ceremony/arrival/evening), Chichester Room (reception), Deerpark Room, bridal suite, gardens, PA system, red carpet, table plan, matching stationery",
-      "catering": "External caterer — client's choice",
+      "venueHire_10hr_202526": "£1,071 (April 2025–March 2026)",
+      "venueHire_10hr_202627": "£1,110 (April 2026–March 2027)",
+      "includes": "Full ground floor — Donegall Room (ceremony/arrival/evening), Chichester Room (reception), Deerpark Room, bridal suite, gardens, PA system, red carpet, table plan",
+      "catering": "In-house hospitality and catering (CRG Catering) — BCC published provider",
       "gardens": true,
       "civil_ceremony_licensed": true,
       "source": "https://www.belfastcity.gov.uk/belfastcastle/your-wedding/your-day/wedding-packages",
-      "fernhill_comparison": "Direct heritage comparator. Serves north/central Belfast. High weekend occupancy — consistently booked months ahead. BCC management limits commercial agility and pricing flexibility."
+      "fernhill_comparison": "Direct heritage comparator. Serves north/central Belfast. BCC-managed pricing benchmark; high weekend demand reported anecdotally — occupancy to be confirmed via officer/management enquiry. BCC management limits commercial agility."
     },
     {
       "name": "Malone House",
@@ -65,7 +66,7 @@
       "civil_ceremony_licensed": true,
       "source_packages": "https://www.belfastcity.gov.uk/malonehouse/your-wedding/your-day/wedding-packages",
       "source_rates": "https://www.belfastcity.gov.uk/malonehouse/meetings-events/room-hire-rates",
-      "fernhill_comparison": "Closest geographic comparator to Fernhill — same south Belfast catchment, same heritage house format. Routinely booked months in advance at weekends — proves strong unmet demand in catchment Fernhill would serve."
+      "fernhill_comparison": "Closest format comparator (Georgian BCC heritage house). Serves south Belfast (BT9) — different geography from Fernhill (Glencairn, west/northwest BT13). Published pricing and package structure are the primary benchmark; peak-weekend demand supports citywide heritage wedding appetite."
     },
     {
       "name": "The Merchant Hotel",
@@ -102,9 +103,21 @@
     }
   ],
   "geographicGapAnalysis": {
-    "finding": "South and west Belfast — combined residential catchment of ~120,000–160,000 people — is served by a single BCC-managed heritage venue (Malone House, ~40 weddings/yr at full weekend capacity). There is no independent heritage house venue. Fernhill would be the first.",
-    "unmeet_demand_estimate": "If 15% of ~1,500 south/west Belfast annual weddings prefer a heritage setting and Malone House can only accommodate ~40/yr, there are an estimated 185–225 heritage-seeking couples per year in the catchment currently unserved.",
-    "competitionIntensity": "LOW for intimate (60–120 guest) heritage house segment in south/west Belfast"
+    "finding": "West and northwest Belfast (Glencairn, Ballygomartin, Shankill interface, Forthriver corridor) has no BCC-managed heritage wedding house equivalent to Malone House or Belfast Castle. Malone House serves south Belfast; Belfast Castle serves north Belfast. Fernhill would be the first heritage-house wedding offer anchored in the Glencairn parkland setting.",
+    "demandModel_note": "Derived metric — not a verified statistic. Requires demand study before funding submission.",
+    "demandModel_inputs": {
+      "niMarriages_2023": 7494,
+      "belfastShare_assumption": 0.25,
+      "belfastMarriages_estimate": 1874,
+      "westNorthwestBelfastShare_assumption": 0.18,
+      "localMarriages_estimate": 337,
+      "heritagePreferenceShare_assumption": 0.15,
+      "heritageSeekingCouples_local_estimate": 51,
+      "comparatorVenueCapacity_maloneHouse_weekends": 40,
+      "citywideHeritageVenues_note": "Malone House and Belfast Castle absorb some citywide demand but are not west-Belfast-local"
+    },
+    "unmet_demand_estimate_derived": "Approximately 40–55 couples per year in west/northwest Belfast may seek a local heritage-house format if one existed — subject to formal demand survey.",
+    "competitionIntensity": "LOW–MEDIUM for intimate (60–120 guest) heritage house segment in west/northwest Belfast; MEDIUM citywide when private estates included"
   },
   "fernhillPositioning": {
     "proposedTier": "Mid-premium heritage — accessible elegance. Below Merchant Hotel/Larchfield premium; above standard hotel ballroom. Comparable to Malone House but independently governed with greater commercial flexibility.",
@@ -116,7 +129,7 @@
     "targetAnnualWeddings": "45 at maturity (Year 5)",
     "annualWeddingRevenue_year5": "£144,000 (venue hire only)",
     "keyDifferentiators": [
-      "Only independent heritage house wedding venue in south/west Belfast",
+      "First heritage-house wedding venue anchored in west/northwest Belfast (Glencairn Park)",
       "Community-owned — couples actively choose Fernhill to support something meaningful",
       "Walled gardens for outdoor ceremonies and photography",
       "Intimate scale — every wedding is the only event of the day",

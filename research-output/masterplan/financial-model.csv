@@ -1,0 +1,27 @@
+Category,Year 1,Year 2,Year 3,Year 4,Year 5,Notes
+Revenue - Weddings,41250,66000,114000,130000,144000,Parametric from operations.json
+Revenue - Wakes,45000,90000,126000,144000,154400,
+Revenue - Tea Room,0,55000,110000,135000,154280,Opens Year 2
+Revenue - Cinema,0,0,18000,25000,30240,
+Revenue - Community Hire,5000,10000,16500,20000,22000,
+Total Revenue,91250,221000,384500,454000,504920,
+Operating Costs,185000,220000,260000,275000,284896,
+Operating Surplus,-93750,1000,124500,179000,220024,
+Operating Margin %,,0.5%,32%,39%,44%,
+,,,,,,
+Capital Phase A Low,250000,,,,,Stabilisation
+Capital Phase A High,450000,,,,,
+Capital Phase B Low,600000,,,,,Core restoration
+Capital Phase B High,1100000,,,,,
+Capital Phase C Low,250000,,,,,Fit-out
+Capital Phase C High,400000,,,,,
+Contingency 30% Low,330000,,,,,
+Contingency 30% High,585000,,,,,
+Professional Fees 15% Low,165000,,,,,
+Professional Fees 15% High,293000,,,,,
+All-in Capital Low,1595000,,,,,QS validation required
+All-in Capital High,2828000,,,,,
+,,,,,,
+AHF PDG Target,15000,20000,,,,First grant
+NLHF Capital Target Low,800000,,,,,Anchor
+NLHF Capital Target High,1500000,,,,,

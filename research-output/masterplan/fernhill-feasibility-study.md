@@ -3,7 +3,7 @@
 **Document type:** Feasibility-grade assessment (funder-ready / council-ready / architect-ready draft)  
 **Version:** 1.0  
 **Date:** May 2026  
-**Status:** Draft — subject to survey, planning advice, and professional cost validation  
+**Status:** Grant-submission draft v2.0 — desk research complete; commissioning surveys and live funder checks remain  
 **Prepared for:** Fernhill Heritage Vision / project steering  
 
 ---
@@ -14,7 +14,8 @@
 |------|--------|
 | Basis documents | Master Plan v2.0 (research-populated); fact-check log; statutory listing record |
 | Verbatim insert | Access, Transport & Connectivity Strategy (Section 2 of this document) — included exactly as supplied |
-| Outstanding validation | Building condition survey; transport/parking survey; planning pre-application; formal financial model |
+| Outstanding commissioning | Building condition survey; measured survey; transport/parking survey; pre-application (BCC+HED); QS cost plan; executed engagement report |
+| Desk-complete annexes | `financial-model.md`; `heritage-significance-summary.md`; `community-engagement-framework.md`; `monitoring-evaluation-framework.md`; `submission-readiness-checklist.md` |
 
 ---
 
@@ -536,13 +537,15 @@ Assumptions must be stated at each arrow (e.g. “match funding secured”, “o
 
 ### 15.1 Generic grant readiness
 
-- [ ] Legal entity and governance documents  
-- [ ] Building condition evidence  
-- [ ] Outline designs / conservation approach  
-- [ ] Match funding plan  
-- [ ] Community engagement summary  
-- [ ] Equalities / safeguarding considerations  
-- [ ] Monitoring & evaluation framework  
+- [ ] Legal entity and governance documents (structure defined — see `section-7-governance.md`; incorporation pending)  
+- [ ] Building condition evidence (commission RICS survey)  
+- [x] Outline conservation approach (`heritage-significance-summary.md`; full HIA post-survey)  
+- [x] Match funding plan (`financial-model.md` §6; `funding-roadmap-v3.md`)  
+- [x] Community engagement framework (`community-engagement-framework.md` — **execute** for formal report)  
+- [ ] Equalities / safeguarding policies (adopt at incorporation)  
+- [x] Monitoring & evaluation framework (`monitoring-evaluation-framework.md`)  
+- [x] Business plan & scenario model (`financial-model.md`)  
+- [x] Risk register (`risk-register.md`)  
 
 ### 15.2 NLHF-style narrative (indicative)
 

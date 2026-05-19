@@ -1,54 +1,107 @@
 # Fernhill Document Pack Index
 
-Use this as the control sheet for the current funding/consultant pack.
+**Version:** 2.0 | **Date:** May 2026 | **Status:** Grant-submission pack (development phase — surveys still required)
 
 ---
 
-## Core Documents
+## Core documents (send to funders/council)
+
+| Document | Purpose | Status |
+|----------|---------|--------|
+| `fernhill-feasibility-study.md` | Primary feasibility study + verbatim transport section | Complete draft |
+| `fernhill-full-masterplan-v3.md` | Integrated strategy masterplan | Complete draft |
+| `one-page-brief.md` | First contact | Complete |
+| `two-page-brief.md` | Follow-up briefing | Complete |
+| `financial-model.md` | Five-year P&L, capital, sensitivity | Complete — QS validation required |
+| `submission-readiness-checklist.md` | Master due-diligence checklist | Complete |
+
+---
+
+## Technical & heritage appendices
+
+| Document | Purpose | Status |
+|----------|---------|--------|
+| `heritage-significance-summary.md` | HIA precursor / grant appendix | Complete — architect to extend |
+| `community-engagement-framework.md` | 12-week engagement programme | Framework complete — execute programme |
+| `monitoring-evaluation-framework.md` | NLHF/CCNI M&E | Complete |
+| `consultant-input-pack.md` | Professional scopes | Complete |
+| `supplier-ecosystem-map.md` | NI supplier shortlists | Complete |
+
+---
+
+## Evidence & governance registers
 
 | Document | Purpose |
-|---|---|
-| `fernhill-full-masterplan-v3.md` | Main integrated strategy and feasibility masterplan |
-| `fernhill-feasibility-study.md` | Feasibility study with verbatim Access, Transport & Connectivity Strategy |
-| `one-page-brief.md` | First contact brief for councillors/officers/funders |
-| `two-page-brief.md` | Expanded council/funder briefing |
-| `action-plan-pack-rc.md` | Existing project lead sequencing pack |
-| `rc-master-action-list.md` | Direct personal to-do list for R.C. |
+|----------|---------|
+| `assumptions-register.md` | Facts vs assumptions |
+| `risk-register.md` | Delivery and operational risks |
+| `fact-check-log.md` | Claim audit trail |
+| `reference-register.md` | Source URLs |
+| `funding-roadmap-v3.md` | Funder sequence |
+| `tables-and-diagrams.md` | Mermaid diagrams |
 
 ---
 
-## Consultant and Application Support
+## Section narratives (masterplan chapters)
+
+| Section | File | Status |
+|---------|------|--------|
+| 3 Weddings | `section-3-weddings.md` | Complete |
+| 4 Wakes | `section-4-wakes.md` | Complete |
+| 5 Restoration | `section-5-restoration.md` | Complete |
+| 6 Funding | `section-6-funding.md` | Complete |
+| 7 Governance | `section-7-governance.md` | Complete |
+| 8 Investors | `section-8-investors.md` | Complete |
+| 9 Case studies | `section-9-case-studies.md` | Complete |
+| 10 Operations | `section-10-operations.md` | Complete |
+
+---
+
+## Personal action (R.C.)
 
 | Document | Purpose |
-|---|---|
-| `consultant-input-pack.md` | Scope for architect, surveyor, QS, engineer, planning, transport inputs |
-| `supplier-ecosystem-map.md` | Local/regional supplier ecosystem and procurement sequencing |
-| `funding-roadmap-v3.md` | Funding path, application readiness, and funder sequencing |
-| `risk-register.md` | Consolidated risk register |
-| `assumptions-register.md` | Facts vs assumptions vs required validation |
-| `reference-register.md` | Source register for citations |
-| `tables-and-diagrams.md` | Reusable Mermaid diagrams and briefing tables |
+|----------|---------|
+| `action-plan-pack-rc.md` | Stakeholder sequencing |
+| `rc-master-action-list.md` | 90-day task list |
 
 ---
 
-## Recommended Use
+## Research data (JSON — populated)
 
-1. Send `one-page-brief.md` first.
-2. Send `two-page-brief.md` after interest is confirmed.
-3. Use `fernhill-full-masterplan-v3.md` for serious stakeholders.
-4. Use `consultant-input-pack.md` for fee proposals.
-5. Use `assumptions-register.md` and `risk-register.md` in all formal applications.
+| Folder | Content |
+|--------|---------|
+| `research-output/weddings/` | Market + comparators |
+| `research-output/wakes/` | Wake market |
+| `research-output/restoration/` | Capital benchmarks |
+| `research-output/funding/` | Grant programmes |
+| `research-output/governance/` | Legal models |
+| `research-output/operations/` | P&L model data |
+| `research-output/case-studies/` | Comparators |
+| `research-output/investors/` | Philanthropy + social finance |
 
 ---
 
-## Known Outstanding Work Before Formal Submission
+## Recommended use by audience
 
-- Measured building survey.
-- Condition survey.
-- Access/parking survey.
-- Pre-application meeting with Belfast City Council and HED.
-- Live grant eligibility checks.
-- Financial model spreadsheet.
-- Formal community engagement report.
-- Letters of support.
+| Audience | Send |
+|----------|------|
+| Councillor (first contact) | `one-page-brief.md` |
+| Council officer | `two-page-brief.md` + transport section in feasibility |
+| AHF / NLHF | `fernhill-feasibility-study.md` + `financial-model.md` + registers |
+| Conservation architect | `consultant-input-pack.md` + `heritage-significance-summary.md` |
+| R.C. (weekly) | `rc-master-action-list.md` + `submission-readiness-checklist.md` |
 
+---
+
+## Still requires commissioning (cannot be desk-completed)
+
+- RICS building condition survey  
+- Measured survey  
+- Transport/parking survey  
+- HED + BCC pre-application meetings  
+- Formal community engagement report (execute framework)  
+- Letters of support  
+- CCNI registration + incorporation  
+- QS cost plan replacing parametric capital range  
+
+*Track progress in `submission-readiness-checklist.md`.*
